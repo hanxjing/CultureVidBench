@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="CultureVidBench — a benchmark for cultural understanding in text-to-video generation.">
+  <meta property="og:title" content="CultureVidBench">
+  <meta property="og:description" content="Benchmarking Cultural Understanding in Text-to-Video Generation">
+  <title>CultureVidBench</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="static/css/style.css">
+</head>
+<body>
+  <header class="nav-shell">
+    <nav class="nav wrap" aria-label="Main navigation">
+      <a class="brand" href="#top"><span class="brand-mark">C</span>CultureVidBench</a>
+      <div class="nav-links">
+        <a href="#framework">Framework</a>
+        <a href="#findings">Findings</a>
+        <a href="#leaderboard">Leaderboard</a>
+        <a href="#samples">Samples</a>
+        <a href="#citation">Citation</a>
+      </div>
+    </nav>
+  </header>
+
+  <main id="top">
+    <section class="hero wrap">
+      <h1><span>CultureVidBench:</span> Benchmarking Cultural Understanding in Text-to-Video Generation</h1>
+      <div class="authors">
+        <strong><a href="https://hanxjing.github.io/">Xianjing Han</a><sup>1</sup></strong>,
+        <strong>Yuhan Su<sup>2</sup></strong>,
+        <strong><a href="https://dengyang17.github.io/">Yang Deng</a><sup>3</sup></strong>,
+        <strong><a href="https://www.dongma.info/">Dong Ma</a><sup>4</sup></strong>,
+        <strong><a href="https://personal.ntu.edu.sg/wptay/">Wee Peng Tay</a><sup>1</sup></strong>,
+        <strong><a href="https://binzhubz.github.io/">Bin Zhu</a><sup>3,†</sup></strong>
+      </div>
+      <div class="affiliations">
+        <span><sup>1</sup>Nanyang Technological University</span>
+        <span><sup>2</sup>Centrale Supélec</span>
+        <span><sup>3</sup>Singapore Management University</span>
+        <span><sup>4</sup>University of Cambridge</span>
+      </div>
+      <div class="author-note"><sup>†</sup>Corresponding author</div>
+      <div class="hero-actions">
+        <!-- Replace the three placeholder href values below before release. -->
+        <a class="button primary" href="YOUR_PAPER_LINK" target="_blank" rel="noopener"><span>↗</span> Paper</a>
+        <a class="button primary" href="YOUR_CODE_LINK" target="_blank" rel="noopener"><span>⌘</span> Code</a>
+        <a class="button primary" href="YOUR_DATASET_LINK" target="_blank" rel="noopener"><span>◇</span> Dataset</a>
+      </div>
+
+      <div class="stats" aria-label="Benchmark highlights">
+        <article><strong>1,000</strong><span>Prompts</span></article>
+        <article><strong>12</strong><span>Countries</span></article>
+        <article><strong>8</strong><span>Cultural regions</span></article>
+        <article><strong>14</strong><span>Cultural aspects</span></article>
+      </div>
+    </section>
+
+    <section class="section tint">
+      <div class="wrap">
+        <div class="section-heading compact">
+          <h2>TL;DR</h2>
+          <p>T2V models are widely adopted in many applications, including filmmaking, social media content creation, advertising, and education. CultureVidBench asks a deceptively simple question: <strong>Can T2V models make content that is not only plausible, but culturally right?</strong> A generated video may appear visually plausible and semantically related to the prompt while still misrepresenting the intended culture. We evaluate seven T2V models across cultural faithfulness, multimodal cultural rendering, semantic adherence, and perceptual quality.</p>
+        </div>
+        <div class="video-grid tldr-videos">
+          <figure class="video-card">
+            <video controls autoplay muted loop preload="auto" playsinline>
+              <source src="static/videos/Russia_pelmeni.mp4" type="video/mp4">
+              Your browser does not support MP4 video.
+            </video>
+            <figcaption><b>Russia · Pelmeni</b><span>A woman places pelmeni dumplings on a plate at a dining table in Russia.</span><span class="result-status failure">Incorrect cultural element</span></figcaption>
+          </figure>
+          <figure class="video-card">
+            <video controls autoplay muted loop preload="auto" playsinline>
+              <source src="static/videos/China_traditional_instruments.mp4" type="video/mp4">
+              Your browser does not support MP4 video.
+            </video>
+            <figcaption><b>China · Traditional instruments</b><span>Musicians play traditional instruments at a traditional Chinese music concert.</span><span class="result-status failure">Cultural inconsistency</span></figcaption>
+          </figure>
+          <figure class="video-card">
+            <video controls autoplay muted loop preload="auto" playsinline>
+              <source src="static/videos/Ethiopia_cross.mp4" type="video/mp4">
+              Your browser does not support MP4 video.
+            </video>
+            <figcaption><b>Ethiopia · Crossing oneself</b><span>Worshippers make the sign of the cross and continue praying in Ethiopia.</span><span class="result-status failure">Incorrect cultural element</span></figcaption>
+          </figure>
+        </div>
+      </div>
+    </section>
+
+    <section class="section wrap" id="framework">
+      <div class="section-heading compact">
+        <h2>Framework</h2>
+        <p>From culturally grounded knowledge to evaluation: prompts are curated across material culture, social practice &amp; performance, and ritual &amp; ceremony, then assessed by both humans and multimodal language models.</p>
+      </div>
+      <figure class="paper-figure wide">
+        <img src="static/images/framework.png" alt="CultureVidBench construction and evaluation framework">
+        <figcaption>Figure 1. Framework of the CultureVidBench construction and evaluation pipeline.</figcaption>
+      </figure>
+      <div class="dimension-grid">
+        <article><span>Evaluation Dimension 1</span><h3>Cultural faithfulness</h3><p>Element alignment and consistency with the target cultural context.</p></article>
+        <article><span>Evaluation Dimension 2</span><h3>Multimodal rendering</h3><p>Culturally appropriate visible text and audio.</p></article>
+        <article><span>Evaluation Dimension 3</span><h3>Semantic adherence</h3><p>Correct subjects and actions from the prompt.</p></article>
+        <article><span>Evaluation Dimension 4</span><h3>Perceptual quality</h3><p>Realism, clarity, motion, and overall visual quality.</p></article>
+      </div>
+    </section>
+
+    <section class="section dark" id="findings">
+      <div class="wrap">
+        <div class="section-heading light">
+          <h2>Key Findings</h2>
+        </div>
+        <div class="finding-list">
+          <article><span>01</span><p>Current T2V models often achieve strong semantic adherence and visual quality, yet still struggle to faithfully capture <em>culturally specific details</em>.</p></article>
+          <article><span>02</span><p>The limitation is more pronounced in <em>underrepresented cultural regions</em>, where models perform substantially worse than in high-resource cultures.</p></article>
+          <article><span>03</span><p><em>Material culture</em> is generally easier to generate than social practices and rituals: models render cultural objects better than culturally grounded actions and procedures.</p></article>
+          <article><span>04</span><p><em>Multimodal cultural rendering</em> remains particularly challenging, especially culturally appropriate visible text and audio.</p></article>
+        </div>
+      </div>
+    </section>
+
+    <section class="section wrap" id="leaderboard">
+      <div class="section-heading leaderboard-heading">
+        <div>
+          <h2>Model Leaderboard</h2>
+          <p>Scores are normalized to 0–1. Click a metric to sort; higher is better. “—” indicates that the model does not generate audio.</p>
+        </div>
+        <div class="toggle" role="group" aria-label="Evaluator">
+          <button class="active" data-evaluator="gemini">Gemini-3.1-Pro</button>
+          <button data-evaluator="human">Human</button>
+        </div>
+      </div>
+      <div class="table-wrap">
+        <table id="leaderboard-table">
+          <thead><tr>
+            <th data-key="rank">#</th><th data-key="model">Model</th><th data-key="average">Average ↕</th>
+            <th data-key="alignment">Cultural<br>Alignment ↕</th><th data-key="consistency">Cultural<br>Consistency ↕</th>
+            <th data-key="text">Text<br>Rendering ↕</th><th data-key="audio">Audio<br>Alignment ↕</th>
+            <th data-key="subject">Subject ↕</th><th data-key="action">Action ↕</th>
+            <th data-key="realism">Realism ↕</th><th data-key="visual">Visual<br>Quality ↕</th>
+          </tr></thead>
+          <tbody></tbody>
+        </table>
+      </div>
+      <p class="table-note">The average is computed over available reported dimensions. Proprietary model names are marked with a filled badge.</p>
+    </section>
+
+    <section class="section analysis">
+      <div class="wrap">
+        <div class="section-heading">
+          <h2>Cross-country Analysis</h2>
+          <p>Culture-related dimensions vary far more across countries than general semantics and visual quality. High-resource contexts remain substantially easier for current models.</p>
+        </div>
+        <div class="analysis-figure-grid">
+          <figure class="paper-figure">
+            <img src="static/images/figure5.png" alt="Country-level evaluation heatmap and dispersion across cultural dimensions">
+            <figcaption>Figure 2. Country-level results averaged over all T2V models evaluated by Gemini-3.1-Pro. Dispersion denotes the gap between the highest and lowest country-level scores.</figcaption>
+          </figure>
+          <figure class="paper-figure">
+            <img src="static/images/figure6.png" alt="Radar chart of country-level cultural scores for seven T2V models">
+            <figcaption>Figure 3. Country-level cultural scores of different T2V models evaluated by Gemini-3.1-Pro. Scores are averaged over cultural faithfulness and multimodal cultural rendering.</figcaption>
+          </figure>
+        </div>
+      </div>
+    </section>
+
+    <section class="section wrap">
+      <div class="split">
+        <div class="section-heading">
+          <h2>Category Analysis</h2>
+          <p>Semantic adherence remains consistently higher than cultural performance across all 14 aspects. Material culture—especially clothing, architecture, and food—is generally easier to render than social practices, performances, and rituals.</p>
+          <div class="callout">Current models depict distinctive visual appearances more reliably than culturally grounded interactions, procedures, and ceremonies.</div>
+        </div>
+        <figure class="paper-figure">
+          <img src="static/images/figure8.png" alt="Cultural and semantic adherence scores across 14 cultural aspects">
+          <figcaption>Figure 4. Cultural scores (dark-colored bars) and semantic adherence scores (light-colored bars) across cultural aspects evaluated by human. Cultural scores are averaged over cultural faithfulness and multimodal cultural rendering.</figcaption>
+        </figure>
+      </div>
+    </section>
+
+    <section class="section samples tint" id="samples">
+      <div class="wrap">
+        <div class="section-heading">
+          <h2>Qualitative Results</h2>
+        </div>
+        <div class="qualitative-board">
+          <div class="category-labels" aria-label="Cultural categories">
+            <div><strong>Material culture</strong></div>
+            <div><strong>Social practice &amp; performance</strong></div>
+            <div><strong>Ritual &amp; ceremony</strong></div>
+          </div>
+          <div class="video-grid sample-grid">
+            <figure class="video-card"><video controls muted loop preload="metadata" playsinline><source src="static/videos/material-culture-1.mp4" type="video/mp4"></video><figcaption><b>US - Christmas decoration</b><span>Families decorate homes for Christmas with a festive banner in the United States.</span><span class="result-status failure">Text rendering failure</span></figcaption></figure>
+            <figure class="video-card"><video controls muted loop preload="metadata" playsinline><source src="static/videos/social-practice-1.mp4" type="video/mp4"></video><figcaption><b>US - Backyard games (frisbees)</b><span>People throw frisbees in a backyard setting in the United States.</span><span class="result-status success">Successful</span></figcaption></figure>
+            <figure class="video-card"><video controls muted loop preload="metadata" playsinline><source src="static/videos/ritual-ceremony-1.mp4" type="video/mp4"></video><figcaption><b>Italy - Church wedding</b><span>The bride and groom stand at the altar and receive blessings from a priest in Italy.</span><span class="result-status success">Successful</span></figcaption></figure>
+            <figure class="video-card"><video controls muted loop preload="metadata" playsinline><source src="static/videos/material-culture-2.mp4" type="video/mp4"></video><figcaption><b>Malaysia - Hari Raya decoration</b><span>Families decorate homes for Hari Raya with a festival banner in Malaysia.</span><span class="result-status failure">Text rendering failure</span></figcaption></figure>
+            <figure class="video-card"><video controls muted loop preload="metadata" playsinline><source src="static/videos/social-practice-2.mp4" type="video/mp4"></video><figcaption><b>Ethiopia - Eskista dance</b><span>Dancer perform eskista dance in Ethiopia.</span><span class="result-status failure">Incorrect cultural element</span></figcaption></figure>
+            <figure class="video-card"><video controls muted loop preload="metadata" playsinline><source src="static/videos/ritual-ceremony-2.mp4" type="video/mp4"></video><figcaption><b>China - Tea ceremony</b><span>The bride and groom kneel before their parents and serve tea to them during a traditional Chinese wedding ceremony.</span><div class="result-status-row"><span class="result-status failure">Incorrect cultural element</span><span class="result-status failure">Cultural inconsistency</span></div></figcaption></figure>
+          </div>
+        </div>
+        <p class="qualitative-conclusion"><strong>Cultural generation failures are more pronounced in <em>underrepresented cultural regions</em></strong>, which are also more susceptible to cultural interference from high-resource countries.</p>
+      </div>
+    </section>
+
+    <section class="section citation-section" id="citation">
+      <div class="wrap">
+        <div class="section-heading">
+          <h2>Citation</h2>
+          <p>If you find CultureVidBench useful in your research, please cite our work.</p>
+        </div>
+        <div class="citation-card">
+          <button class="copy-citation" id="copy-citation" type="button">Copy BibTeX</button>
+          <pre><code id="bibtex">@misc{han2026culturevidbench,
+  title  = {CultureVidBench: Benchmarking Cultural Understanding in Text-to-Video Generation},
+  author = {Han, Xianjing and Su, Yuhan and Deng, Yang and Ma, Dong and Tay, Wee Peng and Zhu, Bin},
+  year   = {2026}
+}</code></pre>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="wrap footer-inner">
+      <div><strong>CultureVidBench</strong><span>Benchmarking cultural understanding in T2V generation.</span></div>
+      <p>Website adapted from the <a href="https://github.com/eliahuhorwitz/Academic-project-page-template">Academic Project Page Template</a>.</p>
+    </div>
+  </footer>
+  <script src="static/js/main.js"></script>
+</body>
+</html>
