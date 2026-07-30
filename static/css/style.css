@@ -6,7 +6,7 @@
 .stats::before{display:none}
 .stats{background:rgba(255,255,255,.52);backdrop-filter:blur(2px)}
 .stats article{background:rgba(255,255,255,.62)}
-.affiliations,.author-note{font-family:"DM Sans",sans-serif;font-size:17px;font-weight:400;color:var(--muted)}
+.affiliations,.author-note{font-family:"DM Sans",sans-serif;font-size:17px;font-weight:400;color:var(--ink)}
 .affiliations{max-width:none;flex-wrap:nowrap;gap:18px;white-space:nowrap}
 .best{background:transparent}
 .section-heading.compact{max-width:none;width:100%}

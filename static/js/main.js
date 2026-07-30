@@ -44,7 +44,7 @@ document.querySelectorAll("th[data-key]").forEach(th=>th.addEventListener("click
   descending=sortKey===th.dataset.key?!descending:true; sortKey=th.dataset.key; render();
 }));
 document.querySelectorAll("video").forEach(video=>video.addEventListener("error",()=>video.classList.add("missing")));
-const autoplayVideos=[...document.querySelectorAll(".tldr-videos video")];
+const autoplayVideos=[...document.querySelectorAll(".tldr-videos video, .sample-grid video")];
 function playTldrVideos(){
   autoplayVideos.forEach(video=>{
     video.muted=true;
