@@ -12,7 +12,9 @@
 .tldr-context{margin:28px 0 0;color:var(--muted);font-size:18px;line-height:1.6}
 .section-heading .tldr-summary{font-size:19px}
 .tldr-summary .culture-warning{color:#b4473a}
-.finding-list p{font-size:clamp(16px,1.7vw,20px)}
+.finding-list p{font-size:clamp(15px,1.6vw,19px)}
+.finding-list em{font-weight:700}
+.section-heading h2{font-size:clamp(30px,3.5vw,46px)}
 .hero{z-index:2}
 .stats{overflow:visible}
 .dropdown-stat{position:relative;z-index:5;padding:0!important}
@@ -79,7 +81,7 @@
 .qualitative-conclusion{margin:26px 0 0;padding:20px 24px;border-left:4px solid var(--coral);border-radius:0 14px 14px 0;background:#fff;color:var(--forest);font-family:"DM Sans",sans-serif;font-size:16px;font-weight:400;line-height:1.55}
 .citation-section{background:#fff}
 .citation-card{position:relative;padding:28px;border:1px solid var(--line);border-radius:18px;background:#f7faf6;box-shadow:var(--shadow)}
-.citation-card pre{margin:0;padding-right:130px;overflow-x:auto;white-space:pre;font:14px/1.7 ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace;color:#274136}
+.citation-card pre{margin:0;padding-right:130px;overflow-x:auto;white-space:pre;font:15px/1.7 ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace;color:#274136}
 .citation-card code{color:inherit}
 .copy-citation{position:absolute;top:20px;right:20px;padding:9px 14px;border:0;border-radius:999px;background:var(--forest);color:#fff;font:700 12px "DM Sans",sans-serif;cursor:pointer}
 .copy-citation:hover{background:var(--green)}
