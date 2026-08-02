@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">CultureVidBench globe and video icon</title>
+  <rect width="64" height="64" rx="16" fill="#143d2b"/>
+  <circle cx="30" cy="31" r="19" fill="none" stroke="#eaf3ed" stroke-width="3"/>
+  <path d="M11 31h38M30 12c6 5 9 11 9 19s-3 14-9 19M30 12c-6 5-9 11-9 19s3 14 9 19M15 21h30M15 41h24" fill="none" stroke="#eaf3ed" stroke-width="2" stroke-linecap="round" opacity=".82"/>
+  <circle cx="46" cy="43" r="12" fill="#ed795d" stroke="#143d2b" stroke-width="3"/>
+  <path d="m43 37 8 6-8 6z" fill="#fff"/>
+</svg>

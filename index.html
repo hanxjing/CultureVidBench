@@ -7,6 +7,7 @@
   <meta property="og:title" content="CultureVidBench">
   <meta property="og:description" content="Benchmarking Cultural Understanding in Text-to-Video Generation">
   <title>CultureVidBench</title>
+  <link rel="icon" href="static/images/culturevidbench-icon.svg" type="image/svg+xml">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@500;600;700;800&display=swap" rel="stylesheet">
@@ -15,7 +16,7 @@
 <body>
   <header class="nav-shell">
     <nav class="nav wrap" aria-label="Main navigation">
-      <a class="brand" href="#top"><span class="brand-mark">C</span>CultureVidBench</a>
+      <a class="brand" href="#top"><img class="brand-mark" src="static/images/culturevidbench-icon.svg" alt="">CultureVidBench</a>
       <div class="nav-links">
         <a href="#framework">Framework</a>
         <a href="#findings">Findings</a>
@@ -47,15 +48,73 @@
       <div class="hero-actions">
         <!-- Replace the three placeholder href values below before release. -->
         <a class="button primary" href="YOUR_PAPER_LINK" target="_blank" rel="noopener"><span>↗</span> Paper</a>
-        <a class="button primary" href="YOUR_CODE_LINK" target="_blank" rel="noopener"><span>⌘</span> Code</a>
-        <a class="button primary" href="YOUR_DATASET_LINK" target="_blank" rel="noopener"><span>◇</span> Dataset</a>
+        <a class="button primary" href="YOUR_CODE_LINK" target="_blank" rel="noopener"><span>⌘</span> Code (soon)</a>
+        <a class="button primary" href="YOUR_DATASET_LINK" target="_blank" rel="noopener"><span>◇</span> Dataset (soon)</a>
       </div>
 
       <div class="stats" aria-label="Benchmark highlights">
         <article><strong>1,000</strong><span>Prompts</span></article>
-        <article><strong>12</strong><span>Countries</span></article>
-        <article><strong>8</strong><span>Cultural regions</span></article>
-        <article><strong>14</strong><span>Cultural aspects</span></article>
+        <article class="country-stat dropdown-stat">
+          <button class="stat-trigger" id="country-trigger" type="button" aria-haspopup="true" aria-controls="country-dropdown">
+            <strong>12</strong><span>Countries <span class="dropdown-chevron" aria-hidden="true">⌄</span></span>
+          </button>
+          <div class="country-dropdown stat-dropdown" id="country-dropdown">
+            <ul>
+              <li><span>🇺🇸</span>United States</li>
+              <li><span>🇮🇳</span>India</li>
+              <li><span>🇮🇹</span>Italy</li>
+              <li><span>🇨🇳</span>China</li>
+              <li><span>🇧🇷</span>Brazil</li>
+              <li><span>🇳🇱</span>Netherlands</li>
+              <li><span>🇳🇿</span>New Zealand</li>
+              <li><span>🇯🇵</span>Japan</li>
+              <li><span>🇳🇬</span>Nigeria</li>
+              <li><span>🇷🇺</span>Russia</li>
+              <li><span>🇲🇾</span>Malaysia</li>
+              <li><span>🇪🇹</span>Ethiopia</li>
+            </ul>
+          </div>
+        </article>
+        <article class="dropdown-stat">
+          <button class="stat-trigger" id="region-trigger" type="button" aria-haspopup="true" aria-controls="region-dropdown">
+            <strong>8</strong><span>Cultural regions <span class="dropdown-chevron" aria-hidden="true">⌄</span></span>
+          </button>
+          <div class="stat-dropdown region-dropdown" id="region-dropdown">
+            <ul>
+              <li>Confucian</li>
+              <li>West and South Asian</li>
+              <li>African-Islamic</li>
+              <li>Orthodox Europe</li>
+              <li>Catholic Europe</li>
+              <li>Protestant Europe</li>
+              <li>English-speaking</li>
+              <li>Latin America</li>
+            </ul>
+          </div>
+        </article>
+        <article class="dropdown-stat">
+          <button class="stat-trigger" id="aspect-trigger" type="button" aria-haspopup="true" aria-controls="aspect-dropdown">
+            <strong>14</strong><span>Cultural aspects <span class="dropdown-chevron" aria-hidden="true">⌄</span></span>
+          </button>
+          <div class="stat-dropdown aspect-dropdown align-right" id="aspect-dropdown">
+            <ul>
+              <li class="material-aspect">Food</li>
+              <li class="material-aspect">Clothing</li>
+              <li class="material-aspect">Architecture</li>
+              <li class="material-aspect">Decorations</li>
+              <li class="social-aspect">Greeting</li>
+              <li class="social-aspect">Dining etiquette</li>
+              <li class="social-aspect">Dancing</li>
+              <li class="social-aspect">Game</li>
+              <li class="social-aspect">Sport</li>
+              <li class="social-aspect">Concert</li>
+              <li class="social-aspect">Celebration</li>
+              <li class="ritual-aspect">Wedding</li>
+              <li class="ritual-aspect">Funeral</li>
+              <li class="ritual-aspect">Religious practice</li>
+            </ul>
+          </div>
+        </article>
       </div>
     </section>
 
@@ -63,7 +122,7 @@
       <div class="wrap">
         <div class="section-heading compact">
           <h2>TL;DR</h2>
-          <p>T2V models are widely adopted in many applications, including filmmaking, social media content creation, advertising, and education. CultureVidBench asks a deceptively simple question: <strong>Can T2V models make content that is not only plausible, but culturally right?</strong> A generated video may appear visually plausible and semantically related to the prompt while still misrepresenting the intended culture. We evaluate seven T2V models across cultural faithfulness, multimodal cultural rendering, semantic adherence, and perceptual quality.</p>
+          <p class="tldr-summary"><strong>Current T2V models generate visually plausible and semantically correct videos, but still <span class="culture-warning">misrepresent the intended culture.</span></strong></p>
         </div>
         <div class="video-grid tldr-videos">
           <figure class="video-card">
@@ -71,30 +130,31 @@
               <source src="static/videos/Russia_pelmeni.mp4" type="video/mp4">
               Your browser does not support MP4 video.
             </video>
-            <figcaption><b>Russia · Pelmeni</b><span>A woman places pelmeni dumplings on a plate at a dining table in Russia.</span><span class="result-status failure">Incorrect cultural element</span></figcaption>
+            <figcaption><div class="video-title-row"><b>Russia · Pelmeni</b><span class="model-badge model-happyhorse">HappyHorse 1.0</span></div><span>A woman places pelmeni dumplings on a plate at a dining table in Russia.</span><span class="result-status failure">Incorrect cultural element</span></figcaption>
           </figure>
           <figure class="video-card">
             <video controls autoplay muted loop preload="auto" playsinline>
               <source src="static/videos/China_traditional_instruments.mp4" type="video/mp4">
               Your browser does not support MP4 video.
             </video>
-            <figcaption><b>China · Traditional instruments</b><span>Musicians play traditional instruments at a traditional Chinese music concert.</span><span class="result-status failure">Cultural inconsistency</span></figcaption>
+            <figcaption><div class="video-title-row"><b>China · Traditional instruments</b><span class="model-badge model-wan">Wan 2.2</span></div><span>Musicians play traditional instruments at a traditional Chinese music concert.</span><span class="result-status failure">Cultural inconsistency</span></figcaption>
           </figure>
           <figure class="video-card">
             <video controls autoplay muted loop preload="auto" playsinline>
               <source src="static/videos/Ethiopia_cross.mp4" type="video/mp4">
               Your browser does not support MP4 video.
             </video>
-            <figcaption><b>Ethiopia · Crossing oneself</b><span>Worshippers make the sign of the cross and continue praying in Ethiopia.</span><span class="result-status failure">Incorrect cultural element</span></figcaption>
+            <figcaption><div class="video-title-row"><b>Ethiopia · Crossing oneself</b><span class="model-badge model-kling">Kling 3.0</span></div><span>Worshippers make the sign of the cross and continue praying in Ethiopia.</span><span class="result-status failure">Incorrect cultural element</span></figcaption>
           </figure>
         </div>
+        <p class="tldr-context">T2V models are widely adopted across filmmaking, advertising, and education, making it increasingly important that they faithfully represent diverse cultural contexts. CultureVidBench evaluates 7 T2V models across <strong>cultural faithfulness</strong>, <strong>multimodal cultural rendering</strong>, <strong>semantic adherence</strong>, and <strong>perceptual quality</strong>.</p>
       </div>
     </section>
 
     <section class="section wrap" id="framework">
       <div class="section-heading compact">
         <h2>Framework</h2>
-        <p>From culturally grounded knowledge to evaluation: prompts are curated across material culture, social practice &amp; performance, and ritual &amp; ceremony, then assessed by both humans and multimodal language models.</p>
+        <p>From culturally grounded knowledge to evaluation: prompts are curated across <strong>material culture</strong>, <strong>social practice &amp; performance</strong>, and <strong>ritual &amp; ceremony</strong>, then assessed by both humans and multimodal language models.</p>
       </div>
       <figure class="paper-figure wide">
         <img src="static/images/framework.png" alt="CultureVidBench construction and evaluation framework">
@@ -116,7 +176,7 @@
         <div class="finding-list">
           <article><span>01</span><p>Current T2V models often achieve strong semantic adherence and visual quality, yet still struggle to faithfully capture <em>culturally specific details</em>.</p></article>
           <article><span>02</span><p>The limitation is more pronounced in <em>underrepresented cultural regions</em>, where models perform substantially worse than in high-resource cultures.</p></article>
-          <article><span>03</span><p><em>Material culture</em> is generally easier to generate than social practices and rituals: models render cultural objects better than culturally grounded actions and procedures.</p></article>
+          <article><span>03</span><p><em>Material culture</em> is generally easier to generate than social practices and rituals.</p></article>
           <article><span>04</span><p><em>Multimodal cultural rendering</em> remains particularly challenging, especially culturally appropriate visible text and audio.</p></article>
         </div>
       </div>
@@ -125,7 +185,7 @@
     <section class="section wrap" id="leaderboard">
       <div class="section-heading leaderboard-heading">
         <div>
-          <h2>Model Leaderboard</h2>
+          <h2>Leaderboard</h2>
           <p>Scores are normalized to 0–1. Click a metric to sort; higher is better. “—” indicates that the model does not generate audio.</p>
         </div>
         <div class="toggle" role="group" aria-label="Evaluator">
@@ -193,15 +253,15 @@
             <div><strong>Ritual &amp; ceremony</strong></div>
           </div>
           <div class="video-grid sample-grid">
-            <figure class="video-card"><video controls autoplay muted loop preload="auto" playsinline><source src="static/videos/material-culture-1.mp4" type="video/mp4"></video><figcaption><b>US - Christmas decoration</b><span>Families decorate homes for Christmas with a festive banner in the United States.</span><span class="result-status failure">Text rendering failure</span></figcaption></figure>
-            <figure class="video-card"><video controls autoplay muted loop preload="auto" playsinline><source src="static/videos/social-practice-1.mp4" type="video/mp4"></video><figcaption><b>US - Backyard games (frisbees)</b><span>People throw frisbees in a backyard setting in the United States.</span><span class="result-status success">Successful</span></figcaption></figure>
-            <figure class="video-card"><video controls autoplay muted loop preload="auto" playsinline><source src="static/videos/ritual-ceremony-1.mp4" type="video/mp4"></video><figcaption><b>Italy - Church wedding</b><span>The bride and groom stand at the altar and receive blessings from a priest in Italy.</span><span class="result-status success">Successful</span></figcaption></figure>
-            <figure class="video-card"><video controls autoplay muted loop preload="auto" playsinline><source src="static/videos/material-culture-2.mp4" type="video/mp4"></video><figcaption><b>Malaysia - Hari Raya decoration</b><span>Families decorate homes for Hari Raya with a festival banner in Malaysia.</span><span class="result-status failure">Text rendering failure</span></figcaption></figure>
-            <figure class="video-card"><video controls autoplay muted loop preload="auto" playsinline><source src="static/videos/social-practice-2.mp4" type="video/mp4"></video><figcaption><b>Ethiopia - Eskista dance</b><span>Dancer perform eskista dance in Ethiopia.</span><span class="result-status failure">Incorrect cultural element</span></figcaption></figure>
-            <figure class="video-card"><video controls autoplay muted loop preload="auto" playsinline><source src="static/videos/ritual-ceremony-2.mp4" type="video/mp4"></video><figcaption><b>China - Tea ceremony</b><span>The bride and groom kneel before their parents and serve tea to them during a traditional Chinese wedding ceremony.</span><div class="result-status-row"><span class="result-status failure">Incorrect cultural element</span><span class="result-status failure">Cultural inconsistency</span></div></figcaption></figure>
+            <figure class="video-card"><video controls autoplay muted loop preload="auto" playsinline><source src="static/videos/material-culture-1.mp4" type="video/mp4"></video><figcaption><div class="video-title-row"><b>US - Christmas decoration</b><span class="model-badge model-happyhorse">HappyHorse 1.0</span></div><span>Families decorate homes for Christmas with a festive banner in the United States.</span><span class="result-status failure">Text rendering failure</span></figcaption></figure>
+            <figure class="video-card"><video controls autoplay muted loop preload="auto" playsinline><source src="static/videos/social-practice-1.mp4" type="video/mp4"></video><figcaption><div class="video-title-row"><b>US - Backyard games (frisbees)</b><span class="model-badge model-kling">Kling 3.0</span></div><span>People throw frisbees in a backyard setting in the United States.</span><span class="result-status success">Successful</span></figcaption></figure>
+            <figure class="video-card"><video controls autoplay muted loop preload="auto" playsinline><source src="static/videos/ritual-ceremony-1.mp4" type="video/mp4"></video><figcaption><div class="video-title-row"><b>Italy - Church wedding</b><span class="model-badge model-wan">Wan 2.2</span></div><span>The bride and groom stand at the altar and receive blessings from a priest in Italy.</span><span class="result-status success">Successful</span></figcaption></figure>
+            <figure class="video-card"><video controls autoplay muted loop preload="auto" playsinline><source src="static/videos/material-culture-2.mp4" type="video/mp4"></video><figcaption><div class="video-title-row"><b>Malaysia - Hari Raya decoration</b><span class="model-badge model-veo">Veo 3.1</span></div><span>Families decorate homes for Hari Raya with a festival banner in Malaysia.</span><div class="result-status-row"><span class="result-status failure">Text rendering failure</span><span class="result-status failure">Incorrect cultural element</span></div></figcaption></figure>
+            <figure class="video-card"><video controls autoplay muted loop preload="auto" playsinline><source src="static/videos/social-practice-2.mp4" type="video/mp4"></video><figcaption><div class="video-title-row"><b>Ethiopia - Eskista dance</b><span class="model-badge model-veo">Veo 3.1</span></div><span>Dancer perform eskista dance in Ethiopia.</span><span class="result-status failure">Incorrect cultural element</span></figcaption></figure>
+            <figure class="video-card"><video controls autoplay muted loop preload="auto" playsinline><source src="static/videos/ritual-ceremony-2.mp4" type="video/mp4"></video><figcaption><div class="video-title-row"><b>China - Tea ceremony</b><span class="model-badge model-wan">Wan 2.2</span></div><span>The bride and groom kneel before their parents and serve tea to them during a traditional Chinese wedding ceremony.</span><div class="result-status-row"><span class="result-status failure">Incorrect cultural element</span><span class="result-status failure">Cultural inconsistency</span></div></figcaption></figure>
           </div>
         </div>
-        <p class="qualitative-conclusion"><strong>Cultural generation failures are more pronounced in <em>underrepresented cultural regions</em></strong>, which are also more susceptible to cultural interference from high-resource countries.</p>
+        <p class="qualitative-conclusion"><strong>Cultural generation failures are more pronounced in underrepresented cultural regions</strong>, which are also more susceptible to cultural interference from high-resource countries.</p>
       </div>
     </section>
 
