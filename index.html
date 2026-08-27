@@ -11,6 +11,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
   <link rel="stylesheet" href="static/css/style.css">
 </head>
 <body>
@@ -46,10 +47,8 @@
       </div>
       <div class="author-note"><sup>†</sup>Corresponding author</div>
       <div class="hero-actions">
-        <!-- Replace the three placeholder href values below before release. -->
-        <a class="button primary" href="https://arxiv.org/abs/2608.01942" target="_blank" rel="noopener"><span>↗</span> Paper</a>
-        <a class="button primary" href="YOUR_CODE_LINK" target="_blank" rel="noopener"><span>⌘</span> Code (soon)</a>
-        <a class="button primary" href="YOUR_DATASET_LINK" target="_blank" rel="noopener"><span>◇</span> Dataset (soon)</a>
+        <a class="button primary" href="https://arxiv.org/abs/2608.01942" target="_blank" rel="noopener"><span class="button-icon" aria-hidden="true"><i class="ai ai-arxiv"></i></span> arXiv</a>
+        <a class="button primary" href="https://huggingface.co/datasets/XianjingHan/CultureVidBench" target="_blank" rel="noopener"><span class="button-icon huggingface-icon" aria-hidden="true">🤗</span> Dataset</a>
       </div>
 
       <div class="stats" aria-label="Benchmark highlights">
@@ -273,11 +272,11 @@
         </div>
         <div class="citation-card">
           <button class="copy-citation" id="copy-citation" type="button">Copy BibTeX</button>
-          <pre><code id="bibtex">@article{han2026culturevidbench,
-  title   = {CultureVidBench: Benchmarking Cultural Understanding in Text-to-Video Generation},
-  author  = {Han, Xianjing and Su, Yuhan and Deng, Yang and Ma, Dong and Tay, Wee Peng and Zhu, Bin},
-  journal = {arXiv preprint arXiv:2608.01942},
-  year    = {2026}
+          <pre><code id="bibtex">@inproceedings{han2026culturevidbench,
+  title={CultureVidBench: Benchmarking Cultural Understanding in Text-to-Video Generation},
+  author={Han, Xianjing and Su, Yuhan and Deng, Yang and Ma, Dong and Tay, Wee Peng and Zhu, Bin},
+  booktitle={Proceedings of the Conference on Empirical Methods in Natural Language Processing},
+  year={2026}
 }</code></pre>
         </div>
       </div>
