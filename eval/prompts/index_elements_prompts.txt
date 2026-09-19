@@ -1,0 +1,1000 @@
+010101	rice	A woman scoops steamed rice into a bowl with a rice paddle at a dining table in China.
+010102	noodles	A man lifts long noodles with chopsticks in a restaurant in China.
+010103	dumplings (jiaozi)	People wrap dumplings together on a wooden table with flour and fillings in a Chinese kitchen.
+010104	baozi	A man opens a bamboo steamer filled with hot baozi at a street food stall in China.
+010105	tofu	A cook slices soft tofu into cubes on a wooden board in a Chinese kitchen.
+010106	soy milk (doujiang)	A woman pours fresh soy milk into a cup beside traditional breakfast dishes in China.
+010107	mooncakes	People cut mooncakes into pieces during the Mid-Autumn Festival in China.
+010108	zongzi	A man unwraps bamboo leaves to reveal zongzi on a plate in China.
+010109	tangyuan	A woman scoops tangyuan from a bowl and eats them in a kitchen in China.
+010110	niangao	A cook slices niangao into pieces on a wooden board in China.
+010111	longevity noodles	A man eats long unbroken noodles symbolizing longevity at a meal in China.
+010201	hanfu	A woman wearing hanfu walks in a traditional Chinese garden in China.
+010202	qipao (cheongsam)	A woman wearing a qipao walks along an old Shanghai street in China.
+010203	Tang suit	A man wearing a Tang suit walks through a festive street in China.
+010301	pagodas	Visitors walk around a multi-story pagoda on a mountain in China.
+010302	palaces	Visitors walk through a grand palace with red walls in China.
+010303	siheyuan (courtyard houses)	A family sit and chat in the central courtyard of a siheyuan house in China.
+010304	yaodong (cave dwellings)	People enter yaodong cave dwellings built into a hillside in rural China.
+010305	stilt houses	Residents walk along wooden stilt houses built above water in a southern Chinese village.
+010306	yurts	A family moves in and out of a traditional yurt on open grasslands in northern China.
+010401	red lanterns	People hang red lanterns along streets during a festival celebration in China.
+010402	spring festival couplets	Family members paste spring festival couplets on both sides of the doorway in China.
+010403	paper cuttings	A boy places red paper cuttings on windows during a festival in China.
+010404	fu character	People paste the “fu” character upside down on doors to symbolize good fortune in China.
+010405	dragon decorations	People carry large dragon decorations during a festive parade in China.
+010406	lion decorations	Performers move lion decorations during a traditional celebration in China.
+010501	handshake (light grip, longer duration)	Two people exchange a gentle handshake with a light grip in a formal Chinese setting.
+010502	slight bow / nod	A woman gives a slight bow while greeting someone in China.
+010503	standing up when introduced	A man stands up politely when being introduced to others in China.
+010504	greeting elders first	A young man greets an elder first with respectful body language in China.
+010505	inviting someone to a meal as greeting	A woman warmly invites another to share a meal as a gesture of politeness in China.
+010601	shared dishes placed at the center	People sit around a table sharing multiple dishes placed at the center in China.
+010602	eating with rice	A man eats rice together with various dishes using chopsticks in China.
+010603	tasting all dishes as politeness	Guests taste every dish at the table to show politeness during a meal in China.
+010604	leaving some food	A man leaves a small amount of food on the plate to show generosity in China.
+010605	using chopsticks (no upright placement)	People place their chopsticks neatly beside the bowl after eating during a meal in China.
+010606	hierarchy-based seating and behavior	Family members sit according to hierarchy and serve elders first at a dining table in China.
+010607	alcohol drinking in social/business contexts	People toast and drink alcohol together during a business dinner in China.
+010701	social gatherings with food and alcohol	Groups of people raise glasses and drink together during a social celebration in China.
+010702	gift-giving practices	People exchange gifts such as tea and fruit during a visit in China.
+010703	Chinese New Year celebration	Family members gather around a table and share a reunion dinner during Chinese New Year celebrations in China.
+010704	Mid-Autumn Festival celebration	Family members walk together and admire colorful lanterns during the Mid-Autumn Festival in China.
+010801	dragon dance	Performers carry and move a long dragon costume through the streets during a festival in China.
+010802	lion dance	Two performers animate a lion costume with rhythmic movements during a celebration in China.
+010803	yangge dance	People perform yangge dance with colorful costumes and coordinated steps in China.
+010804	ethnic minority dances	People perform traditional ethnic minority dances in vibrant costumes in China.
+010805	ritual court dances (yayue)	Performers execute slow and formal court dances with traditional music in China.
+010901	jianzi (shuttlecock kicking)	People kick a shuttlecock back and forth in a casual outdoor game in China.
+010902	pitch-pot (touhu)	Players throw arrows into a pot in a traditional game setting in China.
+010903	chicken vs eagle	Children play a chasing game where one protects others from a pursuer in China.
+010904	majiang	Four players sit around a table playing mahjong with tiles in China.
+010905	go (weiqi)	Two players place black and white stones on a board during a strategic game in China.
+010906	xiangqi	Two players move pieces on a Chinese chessboard during a game in China.
+011001	martial arts	A practitioner performs martial arts movements with controlled strikes in China.
+011002	dragon boat racing	Teams paddle dragon boats in synchronized motion during a race in China.
+011003	archery	A traditional archer draws a bow and releases an arrow toward a target in China.
+011004	cuju (ancient football)	Players kick a ball into a goal in a traditional cuju game in ancient China.
+011005	table tennis	Two players rapidly exchange shots in a table tennis match in China.
+011006	badminton	Players hit a shuttlecock back and forth during a badminton game in China.
+011007	basketball	People play basketball on an outdoor court in China.
+011008	tai chi / qigong	People perform slow and synchronized tai chi movements in a park in China.
+011101	Chinese opera (Beijing opera)	A performer sings and acts in an elaborate costume during a Beijing opera performance in China.
+011102	traditional music (bayin system)	Musicians perform a traditional Chinese bayin ensemble with bronze bells, stone chimes, bamboo flutes, and silk-stringed instruments at a concert in China.
+011103	C-pop (Mandopop, Cantopop)	A singer performs Mandopop on stage at a C-pop concert in China.
+011201	tea ceremony	The bride and groom kneel before their parents and serve tea to them during a traditional Chinese wedding ceremony.
+011202	tea ceremony	A couple presents tea to seated elders and receives red envelopes during a Chinese wedding.
+011203	red wedding decorations	Family members hang red lanterns and paste double happiness symbols before a Chinese wedding ceremony.
+011204	red wedding decorations	People arrange red decorations and decorate the wedding hall for a wedding in China.
+011205	large reception with family and friends	Guests take their seats around banquet tables and raise glasses to celebrate during a Chinese wedding reception.
+011206	large reception with family and friends	The bride and groom walk through the banquet hall and greet guests at each table during a wedding in China.
+011207	traditional wedding bows	The bride and groom bow to their parents and then bow to each other during a traditional Chinese wedding ceremony.
+011208	traditional wedding bows	Under the guidance of the ceremony host, the bride and groom bow to their elders during a Chinese wedding.
+011209	strong family involvement	Family members prepare the wedding venue and welcome guests together during a Chinese wedding ceremony.
+011210	strong family involvement	Parents and relatives guide the ceremony and invite guests to take their seats at a Chinese wedding.
+011301	burning incense	A mourner lights incense and places it in front of a memorial altar during a funeral in China.
+011302	burning incense	Family members hold incense sticks and bow silently in front of the deceased in China.
+011303	joss paper burning	People fold joss paper and burn it as an offering to ancestors during a funeral in China.
+011304	joss paper burning	Family members place paper offerings into the fire and watch them burn during a funeral ritual in China.
+011305	mourning clothes (white)	Family members put on white mourning clothes and stand together during a funeral ceremony in China.
+011306	mourning clothes (white)	Relatives dress in white and join a funeral procession in China.
+011307	ancestor rites	A family places ritual offerings before ancestral tablets and bows in front of them in China.
+011308	ancestor rites	People present food and incense before the altar and kneel during an ancestor rite ceremony in China.
+011309	respect for ancestors (ancestor veneration)	A family prepares offerings and bows respectfully to honor their ancestors in China.
+011310	respect for ancestors (ancestor veneration)	People clean ancestral graves and present offerings during a remembrance ritual in China.
+011401	Buddhism (meditation, chanting)	Monks enter the meditation hall and sit quietly in meditation inside a Buddhist temple in China.
+011402	Buddhism (meditation, chanting)	Buddhist monks open sutra books and chant scriptures together during a temple ceremony in China.
+011403	Taoism (harmony with nature, yin-yang practices)	A Taoist practitioner performs slow hand movements and practices controlled breathing in China.
+011404	Taoism (harmony with nature, yin-yang practices)	A Taoist practitioner adjusts their posture and performs regulated breathing in a Taoist practice setting in China.
+011405	Confucian rituals (hierarchy, filial piety ceremonies)	Participants stand in order and bow to honor elders during a Confucian ritual in China.
+011406	Confucian rituals (hierarchy, filial piety ceremonies)	Students in traditional attire bow before a statue of Confucius and present ceremonial respects during a commemorative ceremony in China.
+011407	temple worship	Worshippers enter a temple and bow before statues while offering prayers in China.
+011408	temple worship	Worshippers kneel before temple statues and recite prayers during temple worship in China.
+011409	incense offering	A worshipper lights incense sticks and places them into a burner as an offering in a temple in China.
+011410	incense offering	Visitors hold incense and bow respectfully before an altar in a Chinese temple.
+011411	ancestor worship	A family places food before ancestral tablets and burns incense in China.
+011412	ancestor worship	People bow before the altar and make offerings during an ancestor worship ritual in China.
+011413	altar food offerings	A family prepares ritual dishes and places them on a home altar as an offering in China.
+011414	altar food offerings	People arrange dishes carefully and present them on a home altar in China.
+011415	Taoist rituals	A Taoist priest raises symbolic ritual objects and performs formal hand movements during a ceremony in China.
+011416	Taoist rituals	Participants follow the Taoist priest’s ritual gestures and then bow before the altar during a Taoist ceremony in China.
+011417	temple fairs	Crowds walk through the fair and stop to watch traditional performances in China.
+011418	temple fairs	People visit festival stalls and enjoy street food during a temple fair in China.
+020101	sushi	A woman picks up sushi with chopsticks and eats it in a sushi restaurant in Japan.
+020102	ramen	A man lifts ramen noodles with chopsticks from a bowl at a ramen shop in Japan.
+020103	tempura	A woman picks up tempura with chopsticks and dips it into sauce at a dining table in Japan.
+020104	bento box	A man opens a bento box and picks up rice and side dishes with chopsticks at a table in Japan.
+020105	onigiri	A woman picks up an onigiri rice ball and eats it in a small food shop in Japan.
+020106	mochi	A woman picks up mochi and eats it at a dining table in Japan.
+020107	soba noodles	A man lifts soba noodles with chopsticks from a bamboo tray at a dining table in Japan.
+020108	udon noodles	A woman lifts udon noodles with chopsticks from a bowl at a dining table in Japan.
+020109	takoyaki	A man picks up takoyaki with chopsticks and eats it at a food stall in Japan.
+020110	okonomiyaki	A cook flips okonomiyaki on a hot plate in a restaurant in Japan.
+020201	kimono	A woman wearing a kimono walks along a street in Japan.
+020202	yukata	A woman wearing a yukata walks during a summer festival in Japan.
+020203	hakama	A man wearing hakama walks through a traditional Japanese hall in Japan.
+020301	Shinto shrine	Visitors walk through a Shinto shrine in Japan.
+020302	torii gate	Visitors walk through a torii gate at a shrine in Japan.
+020303	Buddhist temple	Visitors walk through the grounds of a Buddhist temple in Japan.
+020304	pagoda	Visitors walk around a pagoda in Japan.
+020305	wooden houses	People walk past traditional wooden houses on a street in Japan.
+020306	tatami rooms	People sit in a tatami room in Japan.
+020307	sliding doors (shoji)	A woman opens shoji sliding doors in a traditional room in Japan.
+020401	paper lanterns	People hang paper lanterns with text at a festival in Japan.
+020402	cherry blossoms (sakura)	People walk under cherry blossom trees in Japan.
+020403	ema wooden plaques	Visitors hang ema wooden plaques at a shrine in Japan.
+020404	omamori charms	Visitors hold omamori charms at a shrine in Japan.
+020405	kadomatsu (New Year decoration)	Family members place kadomatsu decorations at the entrance of a home in Japan.
+020406	shimenawa rope	Visitors walk past a shimenawa rope marking a sacred space at a shrine in Japan.
+020407	koinobori (carp streamers)	Family members hang koinobori carp streamers outside their home during Children’s Day in Japan.
+020501	bowing	Two people bow to each other in Japan.
+020502	exchanging business cards	Two professionals exchange business cards with both hands in an office in Japan.
+020503	using honorifics	A junior employee addresses a senior colleague as “Tanaka-san” during a formal greeting in Japan.
+020601	eating with chopsticks	People eat a meal with chopsticks at a dining table in Japan.
+020602	saying “itadakimasu” before eating	People place their hands together and say “itadakimasu” before a meal at a dining table in Japan.
+020603	saying “gochisousama” after eating	People say “gochisousama” after finishing a meal at a dining table in Japan.
+020604	shared dishes	People share dishes placed at the center of a table during a meal in Japan.
+020605	sitting on tatami	People sit on tatami mats around a low table during a meal in Japan.
+020701	hanami (cherry blossom viewing)	People gather under cherry blossom trees for hanami in a park in Japan.
+020702	matsuri festival	Festival participants carry a mikoshi through the street during a matsuri in Japan.
+020703	New Year shrine visit	People visit a shrine and pray during the New Year celebration in Japan.
+020704	Obon festival	Family members visit ancestral graves during the Obon festival in Japan.
+020801	bon odori dance	People perform bon odori dance in a circle during a festival in Japan.
+020802	traditional festival dance	People perform traditional festival dances during a celebration in Japan.
+020901	go	Two players place black and white stones on a go board at a table in Japan.
+020902	shogi	Two players move pieces on a shogi board at a table in Japan.
+020903	kendama	A boy plays kendama by balancing and catching the ball in Japan.
+020904	hanafuda	Players play hanafuda with illustrated cards at a table in Japan.
+021001	sumo wrestling	Two sumo wrestlers compete in a ring in Japan.
+021002	kendo	Practitioners perform kendo with bamboo swords in a dojo in Japan.
+021003	judo	Athletes practice judo on a mat in a dojo in Japan.
+021004	baseball	Players compete in a baseball game on a field in Japan.
+021101	kabuki theatre	Performers act in costume during a kabuki theatre performance on a stage in Japan.
+021102	noh theatre	Actors perform noh theatre with masks on a stage in Japan.
+021103	taiko drum performance	Performers play taiko drums during a performance on a stage in Japan.
+021201	Shinto wedding ceremony	A bride and groom bow before a shrine priest and receive a blessing during a Shinto wedding ceremony in Japan.
+021202	Shinto wedding ceremony	A couple stands before a shrine altar and performs ceremonial bows under the guidance of a priest during a Shinto wedding in Japan.
+021203	wearing white kimono (bride)	A bride wears a white kimono and walks slowly beside the groom during a traditional wedding procession in Japan.
+021204	wearing white kimono (bride)	A bride dressed in a white kimono stands beside the groom and bows formally during a wedding ceremony in Japan.
+021205	sake sharing ritual (san-san-kudo)	The bride and groom sip sake and exchange cups during the san-san-kudo ritual in a Japanese wedding.
+021206	sake sharing ritual (san-san-kudo)	The bride and groom take three sips from ceremonial sake cups and then exchange the cups during the san-san-kudo ritual in a Japanese wedding.
+021301	Buddhist funeral	Family members bow before the altar and offer prayers during a Buddhist funeral ceremony in Japan.
+021302	Buddhist funeral	Mourners sit in silence and bow during a Buddhist funeral ritual in Japan.
+021303	incense offering	People pick up incense and place it into a burner during a funeral in Japan.
+021304	incense offering	Mourners offer incense and bow respectfully before the altar during a funeral ritual in Japan.
+021305	memorial altar	Family members stand before a memorial altar and present offerings during a funeral ritual in Japan.
+021306	memorial altar	People place offerings and bow in front of a decorated memorial altar during a ritual in Japan.
+021401	bowing at shrine	Visitors bow before the shrine and lower their heads in respect in Japan.
+021402	bowing at shrine	People stand at a shrine entrance and bow respectfully before entering in Japan.
+021403	clapping at shrine	Worshippers bow and clap their hands during a prayer ritual at a shrine in Japan.
+021404	clapping at shrine	People clap their hands and bow while praying at a shrine in Japan.
+021405	washing hands at purification basin	Visitors scoop water and wash their hands at a purification basin before entering a shrine in Japan.
+021406	washing hands at purification basin	People rinse their hands and cleanse themselves with water at a shrine entrance in Japan.
+021407	offering coins at shrine	Visitors throw coins into an offering box and bow before making a wish at a shrine in Japan.
+021408	offering coins at shrine	People place coins and bow while praying at a shrine in Japan.
+021409	drawing omikuji fortune	Visitors draw omikuji slips and read their fortune at a shrine in Japan.
+021410	drawing omikuji fortune	People shake a container and pick a fortune paper during a shrine visit in Japan.
+021411	tying omikuji to rack	People fold omikuji and tie them onto a rack after reading their fortune in Japan.
+021412	tying omikuji to rack	Visitors tie fortune papers onto strings and leave them at a shrine in Japan.
+021413	hanging ema plaques	Visitors write wishes on ema plaques and hang them at a shrine in Japan.
+021414	hanging ema plaques	People write wishes on wooden ema plaques and attach them to a rack at a shrine in Japan.
+021415	walking through torii gate	Visitors bow before the torii gate and then walk through it toward the shrine in Japan.
+021416	walking through torii gate	People pass under a torii gate and proceed along a shrine pathway in Japan.
+021417	monks chanting	Monks sit in rows and chant scriptures together inside a temple in Japan.
+021418	monks chanting	Buddhist monks chant in unison and hold prayer beads inside a temple in Japan.
+021419	temple incense burning	Visitors light incense and place it into a burner while praying at a temple in Japan.
+021420	temple incense burning	People wave incense smoke and bow while offering prayers at a temple in Japan.
+030101	curry	A woman eats curry with rice during a meal in a restaurant in India.
+030102	naan	A man tears naan and eats it with curry at a dining table in India.
+030103	biryani	A woman eats biryani rice from a plate in a biryani restaurant in India.
+030104	dosa	A man dips dosa into chutney and eats it at a dining table in India.
+030105	idli	A woman picks up idli and dips it into chutney at a dining table in India.
+030106	samosa	A man picks up a samosa and eats it at a food stall in India.
+030107	chapati	A woman tears chapati and eats it with curry during a meal in India.
+030108	paneer dishes	A man eats paneer curry with rice in a restaurant in India.
+030109	laddoo	A woman picks up a laddoo and eats it during a celebration in India.
+030110	jalebi	A man picks up jalebi and eats it at a food stall in India.
+030111	thali	A woman eats a thali meal with rice, curry, and flatbread at a dining table in India.
+030201	sari	A woman wearing a sari walks along a street in India.
+030202	salwar kameez	A woman wearing a salwar kameez walks along a street in India.
+030203	kurta	A man wearing a kurta walks along a street in India.
+030204	dhoti	A man wearing a dhoti walks in a traditional setting in India.
+030205	turban	A man wearing a turban walks on a street in India.
+030301	Hindu temple	Visitors walk through a Hindu temple in India.
+030302	mosque	Visitors walk through the courtyard of a mosque in India.
+030303	gopuram tower	Visitors walk past a gopuram tower at a temple in India.
+030304	stepwell	Visitors walk down the steps of a stepwell in India.
+030305	palace architecture	Visitors walk through a palace in India.
+030306	courtyard houses	Family members sit and talk in a courtyard house in India.
+030401	rangoli patterns	A woman draws rangoli patterns on the ground outside a home in India.
+030402	diya (oil lamps)	Family members place diya oil lamps in rows during a festival in India.
+030403	marigold garlands	People hang marigold garlands at an entrance in India.
+030404	festival lights	People hang festival lights around a shop sign during a celebration in India.
+030405	kolam patterns	A woman draws kolam patterns on the ground outside a home in India.
+030501	namaste gesture (hands pressed together)	Two people greet each other with the namaste gesture in India.
+030502	touching elders’ feet	A young man touches the feet of an elder as a sign of respect in India.
+030601	eating with hands	People eat food with their hands during a meal in India.
+030602	sharing dishes	Family members share dishes during a meal at a dining table in India.
+030603	sitting on floor to eat	People sit on the floor and eat a meal together in India.
+030604	serving elders first	Family members serve food to elders first during a meal in India.
+030701	Diwali festival	People light lamps and celebrate Diwali with family at home in India.
+030702	Holi festival (color throwing)	People throw colored powder during Holi outdoors in India.
+030703	wedding celebrations	Families gather and perform wedding rituals during a celebration in India.
+030704	temple festivals	People take part in temple festivals in India.
+030801	bhangra dance	People perform bhangra dance during a celebration in India.
+030802	bharatanatyam dance	A woman performs bharatanatyam dance on a stage in India.
+030803	kathak dance	A woman performs kathak dance on a stage in India.
+030901	carrom	Players strike pieces on a carrom board at a table in India.
+030902	pachisi / ludo	Players move pieces on a ludo board at a table in India.
+030903	snakes and ladders	Players roll dice and move pieces on a snakes and ladders board at a table in India.
+030904	pallanguzhi	Players distribute seeds across pits while playing pallanguzhi in India.
+030905	kho-kho	Players run and chase each other during a kho-kho game in India.
+030906	gilli danda	A boy hits a small stick with a larger stick outdoors in India.
+030907	lagori / seven stones	Players throw a ball and rebuild stacked stones outdoors in India.
+030908	kambala	Participants race through water fields with buffalo in India.
+030909	jallikattu	Participants attempt to hold onto a running bull during jallikattu in India.
+030910	boat racing	Teams paddle long boats during a race in India.
+031001	kabaddi	Players tag opponents during a kabaddi match in India.
+031002	field hockey	Players compete in a field hockey match on a field in India.
+031101	classical music performance	Musicians perform classical Indian music on a stage in India.
+031102	Bollywood dance performance	Performers dance to Bollywood music on a stage in India.
+031103	devotional singing (bhajan)	People sing bhajans together in a devotional gathering in India.
+031201	applying mehndi (henna)	An artist outlines mehndi patterns on the bride’s hands and then fills the patterns with henna before a wedding in India.
+031202	applying mehndi (henna)	Women apply mehndi patterns and admire the intricate designs before a wedding in India.
+031203	wedding fire ritual (sacred fire)	A bride and groom walk around a sacred fire and place ritual offerings into the flames during a wedding in India.
+031204	wedding fire ritual (sacred fire)	A priest chants mantras and the couple places offerings into the sacred fire during a wedding in India.
+031205	walking around fire (pheras)	The bride and groom circle the sacred fire and recite wedding vows during the pheras in a Hindu wedding in India.
+031206	walking around fire (pheras)	A couple circles the fire together and completes the pheras during a Hindu wedding in India.
+031207	garland exchange	The bride places a flower garland on the groom, and then the groom places a garland on the bride during a wedding in India.
+031208	garland exchange	A couple places garlands around each other's necks and celebrates during a wedding ceremony in India.
+031301	cremation ritual	Family members carry the body to the cremation ground and then the chief mourner lights the funeral pyre during a Hindu funeral in India.
+031302	cremation ritual	The chief mourner circles the funeral pyre and then lights it during a Hindu cremation ceremony in India.
+031303	ashes immersion in river	Family members carry ashes and immerse them into a river during a ritual in India.
+031304	ashes immersion in river	Family members release the ashes into flowing river water and then offer a prayer during a Hindu funeral ritual in India.
+031305	mourning rituals	Family members gather for mourning rites and prayers after a funeral in India.
+031306	mourning rituals	Relatives sit together and observe mourning practices during a funeral period in India.
+031401	lighting diya lamps	People light diya lamps and place them around a sacred space during a ritual in India.
+031402	lighting diya lamps	Worshippers light small oil lamps and arrange them during a religious ceremony in India.
+031403	offering flowers to deity	Devotees place flowers at a shrine and bow before the deity in India.
+031404	offering flowers to deity	People offer flowers and touch the altar respectfully during a temple ritual in India.
+031405	aarti ritual (lamp waving)	A priest waves a lit lamp and performs aarti in front of a deity in India.
+031406	aarti ritual (lamp waving)	Worshippers hold lamps and move them in circular motions during aarti in India.
+031407	temple bell ringing	Visitors ring a temple bell and enter the shrine for prayer in India.
+031408	temple bell ringing	A devotee rings the temple bell and then enters the shrine for prayer in India.
+031409	praying with folded hands	A woman folds hands and bows while praying in a temple in India.
+031410	praying with folded hands	Devotees stand with folded hands and close their eyes during prayer in India.
+031411	river ritual bathing (Ganges)	People step into the river and bathe while performing purification rituals in India.
+031412	river ritual bathing (Ganges)	Devotees immerse themselves in river water and pray during a ritual in India.
+031413	breaking coconuts as offering	A worshipper breaks a coconut and places it as an offering at a temple in India.
+031414	breaking coconuts as offering	Devotees crack coconuts and present them during a ritual in India.
+031415	carrying idols in procession	People carry decorated idols and walk in a procession through the streets in India.
+031416	carrying idols in procession	Devotees lift idols and move together during a religious procession in India.
+031417	chanting in temple	Devotees chant prayers and clap rhythmically inside a temple in India.
+031418	chanting in temple	Devotees open prayer books and chant religious verses together during a temple ritual in India.
+040101	rice	A woman serves rice onto a plate during a meal in a local restaurant in Malaysia.
+040102	nasi lemak	A woman prepares nasi lemak with coconut rice, sambal, anchovies, and egg in Malaysia.
+040103	satay	A vendor grills satay skewers over charcoal at a food stall in Malaysia.
+040104	laksa	A man stirs laksa noodles in a bowl at a local noodle shop in Malaysia.
+040105	roti canai	A cook flips and stretches roti canai dough at a mamak stall in Malaysia.
+040106	sambal dishes	A woman spoons sambal over food during a meal in Malaysia.
+040107	rendang	A cook stirs rendang in a pot in Malaysia.
+040108	teh tarik	A man pours teh tarik between two cups at a drink stall in Malaysia.
+040201	Baju Kurung	A woman wearing Baju Kurung walks along a street in Malaysia.
+040202	Baju Melayu	A man wearing Baju Melayu walks through a Hari Raya gathering in Malaysia.
+040203	tudung	A woman adjusts her tudung in Malaysia.
+040301	stilt houses	People walk along a row of stilt houses in Malaysia.
+040302	wooden houses	Residents sit outside wooden houses in Malaysia.
+040303	longhouses	Families gather inside a longhouse in Malaysia.
+040304	mosques	Worshippers enter a mosque in Malaysia.
+040305	colonial buildings	People walk past colonial buildings on a street in Malaysia.
+040401	Islamic geometric patterns	Artisans create Islamic geometric patterns in Malaysia.
+040402	crescent moon symbols	People display crescent moon symbols during festivals in Malaysia.
+040403	mosque lanterns	People hang lanterns inside a mosque in Malaysia.
+040404	Hari Raya decorations	Families decorate homes for Hari Raya in Malaysia, with a festive greeting banner.
+040405	ketupat decorations	People hang ketupat decorations during celebrations in Malaysia.
+040501	handshake	Two people greet each other with a handshake in Malaysia.
+040502	avoiding physical contact between genders	A man and a woman greet each other with a respectful nod in Malaysia.
+040503	placing hand on chest after greeting	A man places his hand on his chest after greeting someone in Malaysia.
+040504	greeting elders first	A young man greets elders first in Malaysia.
+040505	slight bow or nod when greeting elders	A woman gives a slight bow while greeting an elder in Malaysia.
+040506	lowering gaze as respect (especially Malaysian Chinese)	A woman lowers her gaze while greeting someone in Malaysia.
+040507	saying “Salaam” (Muslim greeting)	Two people greet each other by saying “Salaam” in Malaysia.
+040508	saying “Hi / Hello” in multicultural settings	People greet each other by saying hello in Malaysia.
+040509	using titles (Mr, Mrs, Doctor)	A man addresses another person using a formal title in Malaysia.
+040510	addressing elders as “pakcik / makcik”	A young woman addresses an elder as pakcik or makcik in Malaysia.
+040511	two-handed handshake among same-gender Muslims	Two men greet each other with a two-handed handshake in Malaysia.
+040601	eating with right hand only	People eat food with their right hand during a meal in Malaysia.
+040602	washing hands before meals	People wash their hands before a meal in Malaysia.
+040603	food cut into small pieces (no knife needed)	People eat food cut into small pieces during a meal in Malaysia.
+040604	using spoon + fork (Malay/Chinese)	People eat a meal with a spoon and fork in Malaysia.
+040605	using chopsticks (Chinese Malaysians)	People eat a meal with chopsticks in Malaysia.
+040701	Hari Raya Aidilfitri	Families gather and celebrate Hari Raya Aidilfitri with food and visits in Malaysia.
+040702	Hari Raya Aidiladha	Families distribute portions of sacrificial meat to relatives and neighbors during Hari Raya Aidiladha in Malaysia.
+040703	Diwali festival	Families celebrate Diwali with lights in Malaysia.
+040704	multicultural festivals	People from different communities visit one another during a multicultural open-house celebration in Malaysia.
+040801	zapin dance	Performers dance zapin during a cultural performance in Malaysia.
+040802	traditional Malay dance	Dancers perform traditional Malay dance in Malaysia.
+040901	sepak takraw	Players kick a rattan ball over a net in Malaysia.
+040902	congkak	Players move pieces across a congkak board in Malaysia.
+040903	gasing	Players spin large tops in Malaysia.
+040904	wau bulan	People fly wau bulan kites in Malaysia.
+041001	badminton	Players compete in a badminton match in Malaysia.
+041002	sepak takraw	Athletes perform acrobatic kicks during a sepak takraw match in Malaysia.
+041003	football	Players compete in a football game in Malaysia.
+041101	traditional music performance	Musicians perform traditional music on a stage in Malaysia.
+041102	wayang kulit	Performers present wayang kulit using a screen and light in Malaysia.
+041201	Malay wedding ceremony	The bride and groom sit on a ceremonial stage and receive blessings from elders during a wedding in Malaysia.
+041202	Malay wedding ceremony	Family members present gifts and the couple greets guests during a traditional Malay wedding in Malaysia.
+041203	bersanding (ceremonial seating)	The bride and groom take their seats on a decorated dais and receive greetings from guests during bersanding in Malaysia.
+041204	bersanding (ceremonial seating)	The couple remains seated on an ornate platform while guests approach and offer congratulations in Malaysia.
+041205	henna application (Malay/Indian weddings)	Women apply henna to the bride’s hands and decorate intricate patterns during a wedding in Malaysia.
+041206	henna application (Malay/Indian weddings)	The bride sits while family members apply henna and admire the designs during a wedding in Malaysia.
+041207	exchange of gifts between families	Families present decorated trays of gifts and exchange items during a wedding ceremony in Malaysia.
+041208	exchange of gifts between families	Relatives carry ceremonial gifts and offer them to the other family during a wedding in Malaysia.
+041301	Islamic funeral prayer (janazah)	People stand in rows and perform funeral prayers together during a janazah ceremony in Malaysia.
+041302	Islamic funeral prayer (janazah)	Worshippers raise their hands and recite prayers while standing during an Islamic funeral in Malaysia.
+041303	burial ritual	Family members carry the body and lower it into the grave during a burial ritual in Malaysia.
+041304	burial ritual	Relatives place soil over the grave and then recite prayers during a funeral in Malaysia.
+041305	mourning gathering	Family members gather and recite prayers together during a mourning period in Malaysia.
+041306	mourning gathering	People sit together and offer condolences while honoring the deceased in Malaysia.
+041401	praying in mosque (Islam)	Worshippers stand in rows and perform coordinated prayer movements inside a mosque in Malaysia.
+041402	praying in mosque (Islam)	People bow and prostrate together during congregational prayer in a mosque in Malaysia.
+041403	washing before prayer (wudu)	Worshippers wash their hands and face, then wipe their heads and wash their feet before prayer at a mosque in Malaysia.
+041404	washing before prayer (wudu)	A worshipper washes the forearms and wipes the head, then washes the feet before prayer in Malaysia.
+041405	breaking fast (Ramadan)	Families sit together and break their fast while sharing food during Ramadan in Malaysia.
+041406	breaking fast (Ramadan)	People eat dates and drink water as they break the fast at sunset in Malaysia.
+041407	temple worship (Hindu/Buddhist)	Devotees offer prayers and bow before statues inside a temple in Malaysia.
+041408	temple worship (Hindu/Buddhist)	People place offerings and pray inside a temple in Malaysia.
+041409	lighting incense	Worshippers light incense and place it in a burner while praying at a temple in Malaysia.
+041410	lighting incense	People hold incense and bow respectfully before an altar at a temple in Malaysia.
+041411	offering food at altar	Devotees place food offerings and arrange them carefully at an altar in Malaysia.
+041412	offering food at altar	People present fruits and dishes and bow during a ritual in Malaysia.
+041413	festival temple visits	Families enter a temple during a religious festival and then place offerings before the shrine in Malaysia.
+041414	festival temple visits	Worshippers walk through the temple grounds and then join a prayer ritual during a religious festival in Malaysia.
+041415	Hindu ritual procession (e.g., Thaipusam)	Devotees carry offerings and walk in a Thaipusam procession during a religious festival in Malaysia.
+041416	Hindu ritual procession (e.g., Thaipusam)	Participants carry milk pots or kavadi and move together in a ceremonial procession during Thaipusam in Malaysia.
+041417	chanting in temple	Devotees chant prayers and sit together during a religious ceremony in Malaysia.
+041418	chanting in temple	People recite chants in unison while participating in temple rituals in Malaysia.
+050101	jollof rice	A woman serves jollof rice onto a plate during a meal in Nigeria.
+050102	fufu	A man shapes fufu into a ball during a meal in a restaurant in Nigeria.
+050103	pounded yam	A man pounds yam with a mortar and pestle in Nigeria.
+050104	egusi soup	A woman stirs egusi soup in a pot in a restaurant in Nigeria.
+050105	suya	A vendor grills suya skewers over open flames at a food stall in Nigeria, with a menu board beside the stall.
+050106	palm wine	A man pours palm wine into a cup in a local bar in Nigeria.
+050107	moi moi	A woman unwraps moi moi from leaves and eats it during a meal in a restaurant in Nigeria.
+050201	agbada	A man wearing agbada walks along a street in Nigeria.
+050202	buba	A woman wearing buba walks in Nigeria.
+050203	gele headwrap	A woman wraps a gele headwrap in Nigeria.
+050204	fila cap	A man adjusts a fila cap in Nigeria.
+050205	isiagu attire	A man wearing isiagu attire walks in Nigeria.
+050301	mud houses	People walk around mud houses in Nigeria.
+050302	thatched roof houses	Residents sit near thatched roof houses in Nigeria.
+050303	compound houses	Families gather inside a compound house in Nigeria.
+050304	mosques	Worshippers enter a mosque in Nigeria.
+050305	churches	People walk into a church in Nigeria.
+050401	bead jewelry	A woman adjusts her bead jewelry during a ceremony in Nigeria.
+050402	coral beads	A woman wears coral beads with traditional attire in Nigeria.
+050403	patterned fabrics (wax prints)	People wear wax print fabrics in Nigeria.
+050404	carved wooden masks	A performer holds a carved wooden mask in Nigeria.
+050405	ceremonial face paint	A woman applies ceremonial face paint in Nigeria.
+050501	handshaking	Two people greet each other with a handshake in Nigeria.
+050502	greeting each person individually	A man greets each person one by one in Nigeria.
+050503	long greeting conversations	People ask about family and well-being during a greeting in Nigeria.
+050504	kneeling greeting (women)	A woman kneels while greeting an elder in Nigeria.
+050505	prostrating greeting (men)	A man prostrates on the ground while greeting an elder in Nigeria.
+050506	using titles (Sir, Ma, Chief)	A man addresses another person using a formal title in Nigeria.
+050601	eating with hands	People eat food with their hands during a meal in Nigeria.
+050602	communal eating	Family members eat together from a shared meal in Nigeria.
+050603	sharing food from one bowl	People share food from one bowl during a meal in Nigeria.
+050604	waiting for host to start eating	Guests wait for the host to begin eating before starting their meal in Nigeria.
+050605	accepting offered food is polite	A woman accepts food offered by a host in Nigeria.
+050606	not wasting food	People finish their meals completely in Nigeria.
+050701	traditional festivals	People celebrate traditional festivals with music and gatherings in Nigeria.
+050702	naming ceremonies	Family members formally announce a baby’s name during a naming ceremony in Nigeria.
+050703	wedding celebrations	Families celebrate weddings with music and dancing in Nigeria.
+050704	masquerade festivals	Communities celebrate masquerade festivals with performances in Nigeria.
+050801	traditional drum dance	People perform traditional drum dances in Nigeria.
+050802	masquerade dance	Performers dance in masquerade costumes in Nigeria.
+050803	ceremonial dance	People perform ceremonial dances during rituals in Nigeria.
+050901	ayo game	Players move seeds across an ayo board in Nigeria.
+050902	street football	Children play football in the street in Nigeria.
+050903	draughts	Players play draughts on a board in Nigeria.
+051001	football	Players compete in a football match in Nigeria.
+051002	wrestling	Athletes compete in a traditional wrestling match in Nigeria.
+051101	drumming performance	Musicians perform drumming during a cultural performance in Nigeria.
+051102	Afrobeats music performance	Performers sing and dance to Afrobeats music on stage in Nigeria.
+051201	traditional wedding ceremony	The bride and groom sit together and receive blessings from elders during a wedding in Nigeria.
+051202	traditional wedding ceremony	Families gather and present gifts while the couple greets guests during a wedding in Nigeria.
+051203	bride price negotiations	Family members present gifts and negotiate the bride price during a wedding ritual in Nigeria.
+051204	bride price negotiations	Relatives offer items and discuss agreements between families during a marriage ceremony in Nigeria.
+051205	wearing traditional attire	The bride and groom wear traditional attire and participate in wedding rituals in Nigeria.
+051206	wearing traditional attire	Family members wear traditional attire and gather around the couple during a wedding in Nigeria.
+051301	burial ceremony	Family members carry the body and lower it into the ground during a burial in Nigeria.
+051302	burial ceremony	Relatives place soil over the grave and then offer prayers at the graveside during a funeral in Nigeria.
+051303	mourning gatherings	Family members sit together and share condolences during a mourning gathering in Nigeria.
+051304	mourning gatherings	People gather and support each other while remembering the deceased in Nigeria.
+051305	ritual drumming	Drummers play rhythmic patterns and people move during a funeral ritual in Nigeria.
+051306	ritual drumming	Musicians perform drumming and participants respond with movements during a ceremony in Nigeria.
+051401	mosque prayer	Worshippers stand in rows and perform coordinated prayer movements in a mosque in Nigeria.
+051402	mosque prayer	People bow and prostrate together during congregational prayer in a mosque in Nigeria.
+051403	kneeling prayer	Worshippers kneel and pray quietly during a religious service in Nigeria.
+051404	kneeling prayer	People lower themselves and offer prayers in a place of worship in Nigeria.
+051405	church worship	People sing and clap during a church worship service in Nigeria.
+051406	church worship	Worshippers stand and raise their hands while singing in church in Nigeria.
+051407	gospel singing	Choir members sing gospel songs and clap rhythmically in a church in Nigeria.
+051408	gospel singing	People sing together and move with the rhythm during gospel worship in Nigeria.
+051409	drumming in worship	Musicians play drums and worshippers respond with movement during a service in Nigeria.
+051410	drumming in worship	Drummers perform rhythms and people engage in worship through music in Nigeria.
+051411	masquerade ritual performance	Performers wear masks and dance during a masquerade ritual in Nigeria.
+051412	masquerade ritual performance	Masked performers move through the crowd and then perform a ritual dance during a masquerade ceremony in Nigeria.
+051413	ancestor spirit rituals	Participants place offerings at an ancestral shrine and then bow in respect during an ancestor ritual in Nigeria.
+051414	ancestor spirit rituals	Family members gather before an ancestral shrine and then recite invocations during a ceremony in Nigeria.
+051415	shrine offerings	Worshippers place offerings and bow before a shrine during a ritual in Nigeria.
+051416	shrine offerings	People present items and perform gestures of respect at a shrine in Nigeria.
+060101	injera	A woman spreads injera on a large plate during a meal in a restaurant in Ethiopia.
+060102	doro wat	A woman serves doro wat with rich red sauce and boiled eggs during a meal in Ethiopia.
+060103	wat stew	A man stirs wat stew with thick spicy sauce and vegetables in a pot in Ethiopia.
+060104	kitfo	A woman prepares kitfo with finely minced meat and spiced butter in Ethiopia.
+060105	tibs	A man sautés tibs meat in a pan with visible spices and steam in Ethiopia.
+060106	coffee	A woman pours coffee from a traditional jebena pot during a coffee ceremony in Ethiopia.
+060107	firfir	A woman mixes torn flatbread with spicy sauce on a plate during a meal in Ethiopia.
+060108	kita (roasted bread)	A woman tears and serves roasted kita bread during a meal in a restaurant in Ethiopia.
+060201	habesha kemis	A woman wearing habesha kemis walks with flowing white fabric and embroidered patterns in Ethiopia.
+060202	netela shawl	A woman wraps a netela shawl around her shoulders in Ethiopia.
+060203	gabi cloth	A man wears gabi cloth draped over the body for warmth in Ethiopia.
+060301	rock-hewn churches	People walk around rock-hewn churches carved directly into stone in Ethiopia.
+060302	Orthodox churches	Worshippers enter an Orthodox church with a circular structure and religious symbols in Ethiopia.
+060303	tukul huts	People stand near tukul huts with round shapes and thatched roofs in rural Ethiopia.
+060304	stone houses	Residents move around stone houses built with rough natural materials in Ethiopia.
+060401	Ethiopian crosses	A man holds an Ethiopian cross with an intricate geometric design in Ethiopia.
+060402	religious paintings (icon art)	People observe religious icon paintings with vivid colors and symbolic figures in Ethiopia.
+060403	woven baskets	A woman arranges woven baskets with colorful patterns in Ethiopia.
+060404	traditional textiles	People display traditional textiles with handwoven patterns in Ethiopia.
+060405	coffee ceremony setup	A woman arranges coffee ceremony items including cups, incense, roasting beans, and a sign board in Ethiopia.
+060406	jebena coffee pot	A woman pours coffee from a traditional jebena pot with a long spout during a ceremony in Ethiopia.
+060407	incense during coffee ceremony	A woman lights incense beside a traditional coffee ceremony setup in Ethiopia.
+060408	mesob serving basket	A family serves a communal meal from a woven mesob basket in Ethiopia.
+060501	handshaking	Two people greet each other with a handshake in Ethiopia.
+060502	shoulder touching greeting	Two men touch shoulders lightly while greeting each other in Ethiopia.
+060503	cheek touching greeting	People touch cheeks gently as a form of greeting in Ethiopia.
+060504	greeting people you know when passing	People acknowledge each other when passing on the street in Ethiopia.
+060505	standing up for respected elders or superiors	People stand up to show respect when an elder or important person enters the room in Ethiopia.
+060506	kissing an elder’s hand (some rural areas)	A young man kisses an elder’s hand as a sign of respect in some rural areas of Ethiopia.
+060507	using titles before first names	People address others by title before using first names in Ethiopia.
+060601	eating with hands	People eat food using their hands from a shared plate in Ethiopia.
+060602	sharing injera from one plate	Family members share injera and dishes from a single large plate in Ethiopia.
+060603	communal eating	People sit together and eat communally during a meal in Ethiopia.
+060604	feeding others by hand (gursha)	A friend feeds another by hand as a gesture of friendship during a meal in Ethiopia.
+060605	using the right hand to eat and serve	People use their right hand to eat and serve food during meals in Ethiopia.
+060606	serving elders and honored guests first	Family members serve elders and honored guests first during a meal in Ethiopia.
+060607	waiting for a prayer before starting food	People wait for a blessing or prayer before starting a meal in Ethiopia.
+060608	offering food repeatedly out of hospitality	Hosts offer food more than once as a sign of hospitality in Ethiopia.
+060609	politely refusing at first before accepting	Guests politely refuse food at first and accept it after repeated offers in Ethiopia.
+060701	Timkat festival	People celebrate Timkat with processions and water rituals in Ethiopia.
+060702	Meskel festival	Crowds gather around a large bonfire during the Meskel festival in Ethiopia.
+060703	religious festivals	Communities celebrate religious festivals with rituals and gatherings in Ethiopia.
+060704	wedding celebrations	Families celebrate weddings with music, food, and dancing in Ethiopia.
+060801	eskista dance	People perform eskista dance with rapid shoulder movements in Ethiopia.
+060802	shoulder dancing	Dancers move their shoulders rhythmically during a traditional performance in Ethiopia.
+060901	gebeta board game	Players move seeds across a wooden gebeta board during a game in Ethiopia.
+060902	Senterej	Two players play Senterej by moving pieces on a traditional chessboard in Ethiopia.
+061001	running	Athletes run long distances across open landscapes in Ethiopia.
+061002	football	People play football together on an open field in Ethiopia.
+061101	traditional music performance	Musicians play traditional instruments during a live performance in Ethiopia.
+061102	drum performance	Performers play drums with rhythmic patterns during a cultural event in Ethiopia.
+061103	religious chanting	Worshippers chant in unison during a religious gathering in Ethiopia.
+061201	traditional wedding ceremony	The bride and groom stand together and receive blessings from elders during a wedding in Ethiopia.
+061202	traditional wedding ceremony	Families gather and celebrate while the couple participates in rituals during a wedding in Ethiopia.
+061203	wearing habesha clothing	The bride wears habesha clothing and participates in ceremonial rituals during a wedding in Ethiopia.
+061204	wearing habesha clothing	The couple dresses in traditional attire and greets guests during a wedding in Ethiopia.
+061205	ceremonial procession	The wedding party walks in procession and celebrates with music during a ceremony in Ethiopia.
+061206	ceremonial procession	Guests accompany the couple in a ceremonial procession with singing and movement in Ethiopia.
+061301	burial ceremony	Family members gather and lower the body into the ground during a burial in Ethiopia.
+061302	burial ceremony	Relatives lower the body into the grave and then offer prayers at the graveside during a funeral in Ethiopia.
+061303	mourning gatherings	Family members sit together and mourn collectively during a gathering in Ethiopia.
+061304	mourning gatherings	People gather and express grief while supporting each other in Ethiopia.
+061305	religious prayers	Worshippers pray together and bow their heads during a funeral service in Ethiopia.
+061306	religious prayers	People recite prayers and participate in religious rituals during mourning in Ethiopia.
+061401	Orthodox church prayer	Worshippers stand and pray together during an Orthodox church service in Ethiopia.
+061402	Orthodox church prayer	People bow and follow structured prayer rituals inside a church in Ethiopia.
+061403	crossing oneself	A worshipper crosses themselves and bows during prayer in Ethiopia.
+061404	crossing oneself	Worshippers make the sign of the cross and continue praying in Ethiopia.
+061405	kissing crosses	A worshipper kisses a cross and bows in reverence during a ritual in Ethiopia.
+061406	kissing crosses	People approach a priest and kiss the cross as part of a ceremony in Ethiopia.
+061407	lighting candles	A worshipper lights a candle and places it near a religious icon in Ethiopia.
+061408	lighting candles	Worshippers light candles and stand quietly in prayer in Ethiopia.
+061409	incense burning	A priest burns incense and waves it during a church ritual in Ethiopia.
+061410	incense burning	A priest lights incense and then waves the censer during a religious ceremony in Ethiopia.
+061411	chanting in church	Priests chant and sway rhythmically during a church service in Ethiopia.
+061412	chanting in church	Worshippers chant together and follow the rhythm of the ceremony in Ethiopia.
+061413	processions with crosses	Clergy carry crosses and walk in a religious procession in Ethiopia.
+061414	processions with crosses	People follow a procession while holding crosses and chanting in Ethiopia.
+061415	holy water rituals	Worshippers receive holy water and bless themselves during a ritual in Ethiopia.
+061416	holy water rituals	A priest sprinkles worshippers with holy water and then the worshippers make the sign of the cross during a religious ceremony in Ethiopia.
+070101	borscht	A woman serves borscht in a bowl with sour cream in a restaurant in Russia.
+070102	pelmeni	A woman places pelmeni dumplings on a plate at a dining table in Russia.
+070103	blini	A man stacks blini pancakes with butter and caviar at a dining table in Russia.
+070104	pirozhki	A woman arranges pirozhki pastries filled with meat or vegetables on a tray in a bakery in Russia.
+070105	shchi	A woman ladles shchi cabbage soup into a bowl at a dining table in Russia.
+070106	stroganoff	A man stirs beef Stroganoff with creamy sauce in a pan in a kitchen in Russia.
+070201	sarafan	A woman wearing a sarafan walks through a folk festival in Russia.
+070202	ushanka	A man wears an ushanka hat in a winter setting in Russia.
+070203	valenki	A man walks wearing valenki boots in snowy conditions in Russia.
+070301	onion dome churches	Visitors walk toward an Orthodox church with onion domes in Russia.
+070302	Orthodox cathedrals	People walk in front of an Orthodox cathedral with golden domes in Russia.
+070303	wooden houses	A man comes out of a traditional wooden house in a rural landscape in Russia.
+070304	Kremlin walls	People walk along the Kremlin walls in Moscow, Russia.
+070401	religious icons	A woman places religious icons on a decorated wall inside a home in Russia.
+070402	Orthodox crosses	Visitors look up at Orthodox crosses on the domes of a church in Russia.
+070403	candles	A woman lights candles in a dimly lit church in Russia.
+070404	matryoshka dolls	A child opens nested matryoshka dolls arranged on a table in Russia.
+070405	traditional embroidery	A woman displays traditional embroidered fabrics with a display sign in Russia.
+070501	firm handshake with direct eye contact	Two people greet each other with a firm handshake and direct eye contact in Russia.
+070502	removing gloves before handshake	A man removes his gloves before shaking hands in Russia.
+070503	avoiding greeting across a doorway	People avoid shaking hands across a doorway due to superstition in Russia.
+070504	greeting each person individually	People greet each person individually when entering a group in Russia.
+070505	time-based greetings	People greet others using time-based phrases during the day in Russia.
+070506	saying “Privet”	Friends greet each other casually by saying “Privet” in Russia.
+070507	using first name + patronymic	A man addresses another person using a first name and patronymic in Russia.
+070508	hugging and back-patting between male friends	Male friends greet each other with hugs and back-patting in Russia.
+070509	three cheek kisses	Women greet each other with three cheek kisses in Russia.
+070510	formal greetings with strangers	People maintain formal and reserved greetings with strangers in Russia.
+070601	making toasts before drinking alcohol	People make toasts before drinking alcohol during a meal in Russia.
+070602	waiting for the host to initiate toast	Guests wait for the host to initiate the first toast in Russia.
+070603	giving long speeches during toasts	People give long and meaningful speeches during toasts in Russia.
+070604	maintaining eye contact while toasting	People maintain eye contact while clinking glasses during a toast in Russia.
+070605	not eating during toast	Guests listen without eating while a toast is being made in Russia.
+070606	clinking glasses after toast	People clink glasses together after finishing a toast in Russia.
+070607	drinking vodka in one shot	People drink vodka in one shot during a meal in Russia.
+070608	eating zakuski after drinking	People eat small snacks after drinking alcohol during a meal in Russia.
+070609	serving guests generously	Hosts serve large portions of food to guests at the table in Russia.
+070610	finishing opened alcohol bottles	People finish opened bottles of alcohol during meals in Russia.
+070701	Orthodox Christmas	Worshippers attend an Orthodox Christmas service inside a church in Russia.
+070702	Easter celebration	Families celebrate Easter with traditional foods in Russia.
+070703	Victory Day parade	Crowds watch military parades during Victory Day celebrations in Russia.
+070704	New Year celebration	Families gather and celebrate New Year with decorations and food in Russia.
+070801	folk dance	People perform traditional folk dances in colorful costumes in Russia.
+070802	Cossack dance	Performers execute fast-paced Cossack dance movements with kicks and squats in Russia.
+070901	chess	Two players play chess on a board in a quiet setting in Russia.
+070902	Durak (card game)	Players play Durak cards around a table during a social gathering in Russia.
+070903	dominoes	People place domino pieces on a table during a casual game in Russia.
+070904	snowball fights	Children throw snowballs at each other during winter in Russia.
+070905	sledding	People slide down snowy hills on sleds during winter in Russia.
+070906	ice skating (recreational)	People skate on an outdoor ice rink during winter in Russia.
+071001	ice hockey	Players compete in an ice hockey match on an indoor rink in Russia.
+071002	figure skating	A skater performs spins and jumps during a figure skating routine in Russia.
+071003	football	People play football together on a field in Russia.
+071101	classical music concert	Musicians perform classical music in a concert hall in Russia.
+071102	folk music performance	Performers play traditional instruments during a folk music show in Russia.
+071201	bread and salt ceremony	The couple receives bread and salt and shares it together during a wedding in Russia.
+071202	bread and salt ceremony	Family members present bread and salt while the couple tastes it during a wedding ritual in Russia.
+071203	traditional wedding celebration	The bride and groom celebrate with guests and participate in traditional customs in Russia.
+071204	traditional wedding celebration	Families gather and perform rituals while celebrating a wedding in Russia.
+071205	wearing formal attire	The bride and groom wear formal attire and greet guests during a wedding in Russia.
+071206	wearing formal attire	Guests dress formally and participate in wedding ceremonies in Russia.
+071301	burial ceremony	Family members gather and lower the coffin into the ground during a burial in Russia.
+071302	burial ceremony	Relatives lower the coffin into the grave and then place flowers at the gravesite during a funeral in Russia.
+071303	memorial meal	Family members gather and share a memorial meal after a funeral in Russia.
+071304	memorial meal	People sit together and remember the deceased during a memorial meal in Russia.
+071305	religious service	People attend a church service and pray for the deceased during a funeral in Russia.
+071306	religious service	Clergy lead prayers while mourners participate in a religious service in Russia.
+071401	crossing oneself	A worshipper makes the sign of the cross and bows slightly during prayer in Russia.
+071402	crossing oneself	People cross themselves and continue praying quietly in a church in Russia.
+071403	kissing icons	A worshipper kisses an icon and then makes the sign of the cross in Russia.
+071404	kissing icons	People approach an icon, kiss it, and bow their heads in reverence in Russia.
+071405	lighting candles	A man lights a candle and places it near an icon inside a church in Russia.
+071406	lighting candles	Worshippers light candles and cross themselves before leaving in Russia.
+071407	standing prayer	Worshippers stand and make the sign of the cross while praying in a church in Russia.
+071408	standing prayer	People stand in place and bow their heads while continuing prayer in Russia.
+071409	bowing in church	A worshipper bows slightly and makes the sign of the cross during prayer in Russia.
+071410	bowing in church	Worshippers bow before an icon and then make the sign of the cross during a church service in Russia.
+071411	chanting in church	Clergy chant prayers and swing incense during a church ritual in Russia.
+071412	chanting in church	Worshippers listen to chanting and cross themselves during the service in Russia.
+071413	incense use in church	A priest swings incense and walks through the church during a ceremony in Russia.
+071414	incense use in church	Smoke rises as incense is burned while prayers are recited in Russia.
+071415	procession with icons	Clergy carry icons and walk in a religious procession while chanting in Russia.
+071416	procession with icons	Worshippers follow the procession and hold candles during the ritual in Russia.
+080101	pizza	A man slices a pizza in a pizzeria in Italy.
+080102	pasta	A woman twirls pasta around a fork during a meal in a restaurant in Italy.
+080103	risotto	A man stirs creamy risotto in a pan in a kitchen in Italy.
+080104	gelato	A woman scoops gelato into a cone at a gelato shop in Italy.
+080105	espresso	A man pours espresso into a small cup from a coffee machine in Italy.
+080106	tiramisu	A woman cuts into tiramisu at a dining table in Italy.
+080107	cappuccino	A woman places a cup of cappuccino on a café table in Italy.
+080108	cornetto	A man picks up a cornetto from a pastry counter with a sign board in a café in Italy.
+080201	formal suits	A man wearing a tailored suit walks along a street in Italy.
+080202	fashion wear	A woman walks along a city street wearing stylish fashion in Italy.
+080203	modest clothing for cathedrals	A woman adjusts modest clothing before entering a cathedral in Italy.
+080301	cathedrals	People walk toward a cathedral in Italy.
+080302	basilicas	People enter a basilica in Italy.
+080303	Roman ruins	People walk among Roman ruins in Italy.
+080304	piazzas	People gather and walk across a lively piazza in Italy.
+080305	stone buildings	People move along narrow streets lined with old stone buildings in Italy.
+080401	religious statues	People observe religious statues inside a church in Italy.
+080402	crucifixes	A visitor looks at a crucifix hanging inside a church in Italy.
+080403	fresco paintings	People look up at fresco paintings covering ceilings inside a church in Italy.
+080404	marble sculptures	People walk around marble sculptures displayed in a gallery in Italy.
+080405	Madonna images in homes	A family displays an image of the Madonna on a wall inside a home in Italy.
+080406	votive candles	A worshipper lights a votive candle beneath a religious statue inside a church in Italy.
+080407	Murano glass	A shopkeeper arranges colorful Murano glass vases on a display shelf in Italy.
+080501	handshake with eye contact and smile	Two people greet each other with a handshake, eye contact, and a smile in Italy.
+080502	women initiating handshake	A woman extends her hand first when greeting a man in Italy.
+080503	greeting each person individually	A man greets each individual one by one when joining a group in Italy.
+080504	verbal greetings	People greet each other by saying “Ciao” or “Buongiorno” in Italy.
+080505	using titles for respect	A man addresses another person using titles such as “Signore” or “Signora” in Italy.
+080506	cheek kissing	People greet each other with two cheek kisses among friends and family in Italy.
+080507	hugging among close relationships	Close friends greet each other with a warm hug in Italy.
+080508	formal greetings with strangers	People maintain a polite and formal tone when greeting strangers in Italy.
+080509	patting on the back among men (especially in some southern contexts)	Two men greet each other with a pat on the back in Italy.
+080510	standing to greet elders	People stand up to greet an older person entering the room in Italy.
+080601	waiting for host to start eating	Guests wait and watch the host before beginning to eat at the table in Italy.
+080602	saying “Buon appetito”	People say “Buon appetito” before starting a meal together in Italy.
+080603	long meals with conversation	People eat slowly and talk for a long time during meals in Italy.
+080604	multi-course meals	Guests enjoy multiple courses served one after another at a table in Italy.
+080605	drinking wine with meals	People drink wine while eating during a meal in Italy.
+080606	not leaving table early	Guests remain at the table until everyone finishes eating in Italy.
+080607	using bread to absorb sauce	A man uses bread to absorb sauce from a plate during a meal in Italy.
+080608	eating slowly and socially	People eat slowly while talking and interacting during a meal in Italy.
+080609	outdoor dining in summer	People sit outdoors and dine at tables in a street setting during summer in Italy.
+080610	espresso after meals	A man drinks espresso after finishing a meal in Italy.
+080611	waiting for the host to sit first	Guests wait for the host to sit down before taking their seats in Italy.
+080612	saying grace before meals	Family members bow their heads and say grace before eating in Italy.
+080613	not eating while walking	People avoid eating while walking in public in Italy.
+080614	lunch as a family meal	Family members sit down together for lunch during the day in Italy.
+080701	Catholic festivals	People gather and celebrate Catholic festivals with rituals and events in Italy.
+080702	Christmas celebration	Families gather and celebrate Christmas with decorations and meals in Italy.
+080703	Easter celebration	People attend church and celebrate Easter with traditions in Italy.
+080704	local festivals	Communities gather and celebrate local festivals in public spaces in Italy.
+080801	traditional folk dance	People perform traditional folk dances with coordinated steps in Italy.
+080802	festival dancing	People dance together during a festival celebration in Italy.
+080901	card games (Scopa, Briscola)	People play Scopa at a table in Italy.
+080902	bocce	People throw bocce balls across a gravel court during a game in Italy.
+080903	board games in cafés	People sit in cafés and play board games together in Italy.
+080904	casual street football	Children play football casually in a street setting in Italy.
+081001	football	People play football together on a field in Italy.
+081002	cycling	Cyclists ride along roads and countryside landscapes in Italy.
+081101	opera performance	Performers sing on stage in elaborate costumes during an opera in Italy.
+081102	classical music concert	Musicians play instruments during a classical concert in Italy.
+081103	street music performance	Street performers play music for passersby in public spaces in Italy.
+081201	church wedding ceremony	The couple walks down the aisle and exchanges vows during a church wedding in Italy.
+081202	church wedding ceremony	The bride and groom kneel before the altar and then receive a blessing from the priest during a church wedding in Italy.
+081203	wearing white wedding dress	The bride walks forward wearing a white dress and greets guests during a wedding in Italy.
+081204	wearing white wedding dress	The bride wears a white gown and stands beside the groom during a ceremony in Italy.
+081205	exchanging rings	The bride places a ring on the groom’s finger, and then the groom places a ring on the bride’s finger during a wedding in Italy.
+081206	exchanging rings	The couple places rings on each other’s fingers and smiles during the ceremony in Italy.
+081301	church funeral	Mourners gather in a church and follow prayers during a funeral service in Italy.
+081302	church funeral	People attend a church service and listen to religious readings during a funeral in Italy.
+081303	burial ceremony	Family members gather and lower the coffin into the ground during a burial in Italy.
+081304	burial ceremony	Relatives place flowers and stand together at the gravesite during a funeral in Italy.
+081305	mourning in black	Family members wear black clothing and gather during a funeral in Italy.
+081306	mourning in black	Relatives dress in black and attend a funeral service together in Italy.
+081401	attending mass	Worshippers attend mass and listen to the priest during a church service in Italy.
+081402	attending mass	People stand to sing hymns and kneel in prayer during Mass in Italy.
+081403	kneeling in church	Worshippers kneel and pray quietly during a church service in Italy.
+081404	kneeling in church	People kneel and bow their heads during prayer in a church in Italy.
+081405	making the sign of the cross	A woman makes the sign of the cross and bows slightly during prayer in Italy.
+081406	making the sign of the cross	Worshippers cross themselves and continue praying during a service in Italy.
+081407	lighting candles	A woman lights a candle and places it in front of a religious statue in Italy.
+081408	lighting candles	Worshippers light candles and make a quiet wish in a church in Italy.
+081409	praying with rosary	A man holds a rosary and moves the beads while praying in Italy.
+081410	praying with rosary	Worshippers hold rosary beads and recite prayers during devotion in Italy.
+081411	confession ritual	A woman enters a confessional and speaks to a priest during confession in Italy.
+081412	confession ritual	A worshipper confesses sins and listens to guidance from a priest in Italy.
+081413	procession during festivals	People carry statues and walk through streets during a religious procession in Italy.
+081414	procession during festivals	Crowds follow a procession and hold candles during a festival in Italy.
+090101	bread (boterham)	A woman spreads butter and toppings on bread slices at a breakfast table in the Netherlands.
+090102	cheese (Gouda, Edam)	A vendor cuts large cheese wheels into slices at an open-air market with a sign board in the Netherlands.
+090103	herring	A man holds and eats raw herring topped with onions at a street stall in the Netherlands.
+090104	stroopwafel	A woman presses fresh stroopwafel between heated irons with syrup filling in the Netherlands.
+090105	pancakes	A cook flips large thin pancakes in a pan inside a Dutch kitchen in the Netherlands.
+090201	casual clothing	People walk along city streets wearing simple and practical casual clothing in the Netherlands.
+090202	raincoats	Cyclists ride through light rain wearing raincoats on urban streets in the Netherlands.
+090203	wooden clogs	A villager walks wearing wooden clogs on a rural path near farms in the Netherlands.
+090301	canal houses	People walk along canals lined with tall narrow canal houses in the Netherlands.
+090302	windmills	Windmill blades rotate slowly in an open landscape with green fields in the Netherlands.
+090303	brick houses	Residents move along streets lined with traditional brick houses in the Netherlands.
+090304	narrow townhouses	People pass by tightly packed narrow townhouses in a historic Dutch city in the Netherlands.
+090401	tulips	Rows of colorful tulips stretch across fields with people walking nearby in the Netherlands.
+090402	flower markets	People browse and purchase flowers at a busy outdoor flower market in the Netherlands.
+090403	minimalist interiors	A resident arranges simple furniture in a clean and minimalist interior space in the Netherlands.
+090404	Dutch tiles	A resident arranges blue-and-white Dutch tiles on a wall inside a traditional home in the Netherlands.
+090501	handshake with slight nod	Two people greet each other with a handshake and a slight nod in the Netherlands.
+090502	direct eye contact	People maintain direct eye contact while greeting each other in the Netherlands.
+090503	short and efficient greeting	Two people exchange a brief and efficient greeting without extended conversation in the Netherlands.
+090504	three cheek kisses	Friends greet each other with three alternating cheek kisses in the Netherlands.
+090505	using first names quickly	People address each other by first names shortly after meeting in the Netherlands.
+090506	verbal greetings	People greet each other by saying “Hoi” or “Hoe gaat het?” in the Netherlands.
+090601	waiting for host to start eating	Guests wait until the host begins before eating at the table in the Netherlands.
+090602	saying “Eet smakelijk”	People say “Eet smakelijk” before starting a meal together in the Netherlands.
+090603	keeping hands visible on table	People keep their hands visible on the table while eating in the Netherlands.
+090604	simple and efficient meals	People eat simple meals quickly with minimal ceremony in the Netherlands.
+090605	light lunch (bread-based)	People eat bread-based lunches during a quick midday break in the Netherlands.
+090606	dinner as main meal (~6pm)	Families gather and eat dinner together in the early evening in the Netherlands.
+090607	splitting the bill (“going Dutch”)	People split the bill evenly after dining together in the Netherlands.
+090608	finishing food to avoid waste	People finish all food on their plates to avoid waste in the Netherlands.
+090609	bringing small gifts when invited	Guests bring small gifts such as flowers or chocolates when visiting a home in the Netherlands.
+090701	King’s Day celebration	Crowds dressed in orange celebrate King’s Day in public streets in the Netherlands.
+090702	Sinterklaas festival	Families celebrate Sinterklaas with gifts and traditional characters in the Netherlands.
+090703	cycling events	Groups of cyclists participate in organized cycling events in the Netherlands.
+090704	national celebrations	People gather in public spaces to celebrate national holidays in the Netherlands.
+090801	folk dance	People perform traditional folk dances in cultural settings in the Netherlands.
+090802	club dancing (EDM culture)	Crowds dance together to electronic music in a nightclub in the Netherlands.
+090901	Ganzenbord	People play Ganzenbord by moving pieces across a numbered board in the Netherlands.
+090902	Mens Erger Je Niet	Families play a board game by rolling dice and moving tokens in the Netherlands.
+090903	Pim Pam Pet	Players participate in a word-based guessing game in a social setting in the Netherlands.
+090904	Party games (Ik Hou Van Holland / Party & Co)	Groups play interactive party games together in a lively indoor setting in the Netherlands.
+091001	cycling	People cycle along bike lanes and countryside roads in the Netherlands.
+091002	football	People play football on a field or in local parks in the Netherlands.
+091003	ice skating	People skate on frozen canals or ice rinks during winter in the Netherlands.
+091101	classical music concert	Musicians perform classical music in a concert hall in the Netherlands.
+091102	electronic music festival	Crowds dance together at a large electronic music festival in the Netherlands.
+091103	outdoor music concert	People gather and listen to live music at an outdoor concert in the Netherlands.
+091201	civil wedding ceremony (town hall)	The couple stands before an official and exchanges vows during a civil ceremony in the Netherlands.
+091202	civil wedding ceremony (town hall)	The bride and groom sign documents and celebrate their marriage in a town hall in the Netherlands.
+091203	signing marriage documents	The couple signs official documents and exchanges smiles during a wedding in the Netherlands.
+091204	signing marriage documents	Partners sit together and complete legal paperwork during a marriage registration in the Netherlands.
+091205	same-sex marriage ceremony	Two partners exchange vows and celebrate their marriage during a ceremony in the Netherlands.
+091206	same-sex marriage ceremony	A same-sex couple signs documents and embraces during a wedding in the Netherlands.
+091207	small private wedding	The couple exchanges vows and embraces in front of close family during an intimate wedding in the Netherlands.
+091208	small private wedding	The couple exchanges vows and signs the marriage documents during a private wedding ceremony in the Netherlands.
+091301	burial ceremony	Family members gather and lower the coffin into the ground during a burial in the Netherlands.
+091302	burial ceremony	Relatives place flowers and stand together at a gravesite during a funeral in the Netherlands.
+091303	cremation ceremony	Family members gather and reflect quietly during a cremation service in the Netherlands.
+091304	cremation ceremony	People attend a cremation service and reflect together in the Netherlands.
+091305	memorial gathering	Family and friends gather to share memories and honor the deceased in the Netherlands.
+091306	memorial gathering	People sit together and reflect during a memorial gathering in the Netherlands.
+091401	church service	People attend a church service and listen to readings and sermons in the Netherlands.
+091402	church service	Worshippers sit quietly and follow the structure of a church service in the Netherlands.
+091403	sitting prayer	People sit and pray quietly during a church service in the Netherlands.
+091404	sitting prayer	Worshippers remain seated and bow their heads during prayer in the Netherlands.
+091405	singing hymns	People sing hymns and bow their heads in prayer during a church service in the Netherlands.
+091406	singing hymns	Worshippers follow lyrics and sing collectively in a church setting in the Netherlands.
+091407	reading Bible	A church reader opens the Bible and reads passages aloud during a church gathering in the Netherlands.
+091408	reading Bible	Worshippers follow along while scripture is read aloud in the Netherlands.
+091409	quiet reflection in church	People sit silently and reflect in a calm church environment in the Netherlands.
+091410	quiet reflection in church	A visitor sits quietly and reflects during a visit to a church in the Netherlands.
+091411	minimal ritual worship	People listen to scripture readings and bow their heads in prayer during a church service in the Netherlands.
+091412	minimal ritual worship	Worshippers listen to scripture readings and sing hymns during a low-ritual church service in the Netherlands.
+100101	hamburger	A man bites into a hamburger at a fast food restaurant in the United States.
+100102	hot dog	A man adds mustard and ketchup to a hot dog at a street stand with a sign board in the United States.
+100103	fried chicken	A woman picks up crispy fried chicken from a bucket at a dining table in the United States.
+100104	barbecue ribs	A man grills barbecue ribs over an outdoor grill in a backyard in the United States.
+100105	apple pie	A woman cuts a slice of apple pie at a dining table in the United States.
+100106	pumpkin pie	A woman serves pumpkin pie during a holiday meal in the United States.
+100107	Thanksgiving turkey	A man carves a roasted turkey at a Thanksgiving dinner table in the United States.
+100108	mashed potatoes	A woman scoops mashed potatoes with gravy onto a plate in a restaurant in the United States.
+100109	cranberry sauce	A woman places cranberry sauce onto a plate beside turkey during Thanksgiving in the United States.
+100201	jeans	People walk casually wearing jeans on city streets in the United States.
+100202	T-shirt	A man wears a T-shirt while walking outdoors on a sunny day in the United States.
+100203	baseball cap	A boy adjusts a baseball cap while standing at a sports field in the United States.
+100204	hoodies	People wear hoodies while walking through a neighborhood in the United States.
+100205	cowboy boots	A man walks wearing cowboy boots on a ranch in the United States.
+100301	skyscrapers	People walk between tall skyscrapers in a busy downtown area in the United States.
+100302	suburban houses	Families move around suburban houses with lawns and driveways in the United States.
+100303	highways	Cars drive along multi-lane highways across the landscape in the United States.
+100304	shopping malls	People walk through large shopping malls with multiple stores in the United States.
+100305	diners	Customers sit and eat inside a retro-style diner in the United States.
+100401	flag of United States	People wave flags of the United States during a public event in the United States.
+100402	Halloween pumpkins (jack-o'-lanterns)	A child carves a pumpkin into a jack-o’-lantern in the United States.
+100403	Christmas lights	Families hang colorful Christmas lights around houses at night in the United States.
+100404	Christmas indoor decorations	Families decorate homes for Christmas with a festive banner in the United States.
+100405	Thanksgiving table setup	A family arranges dishes and decorations on a Thanksgiving dinner table in the United States.
+100406	Fourth of July fireworks	Crowds watch Fourth of July fireworks during Independence Day celebrations in the United States.
+100501	handshaking	Two people greet each other with a firm handshake in the United States.
+100502	hugging	Friends greet each other with a warm hug in the United States.
+100503	waving	A woman waves to greet someone from a distance in the United States.
+100504	smiling during greeting	People smile openly while greeting each other in the United States.
+100505	introducing oneself to strangers	A man introduces himself to a stranger during a conversation in the United States.
+100506	casual small talk (“How are you?”)	People engage in casual small talk by asking “How are you?” in the United States.
+100601	Thanksgiving family dinner	Family members gather and eat together during a Thanksgiving dinner in the United States.
+100602	saying grace before meal	People bow their heads and say grace before eating a meal in the United States.
+100603	large portion meals	People eat large portion meals at a dining table in the United States.
+100604	fast food eating	People eat burgers and fries at a fast food restaurant in the United States.
+100605	passing dishes around table	Family members pass dishes around the table during a meal in the United States.
+100606	offering to refill drinks	A woman offers to refill drinks for others during a meal in the United States.
+100607	eating finger foods	People eat finger foods like pizza and burgers without utensils in the United States.
+100608	taking leftovers home	A woman packs leftover food into a takeout box after a meal in the United States.
+100701	Thanksgiving celebration	Families gather and celebrate Thanksgiving with food and conversation in the United States.
+100702	watching Thanksgiving parade	People watch a Thanksgiving parade with large balloons and performances in the United States.
+100703	watching American football on Thanksgiving	Families watch American football together on television during Thanksgiving in the United States.
+100704	Fourth of July fireworks celebration	Crowds gather to watch fireworks during Independence Day celebrations in the United States.
+100705	Halloween trick-or-treat	Children walk door to door collecting candy in costumes during Halloween in the United States.
+100706	backyard barbecue gathering	People gather in a backyard to grill food and socialize in the United States.
+100707	watching sports with friends at home	Friends watch sports games together on television at home in the United States.
+100708	birthday party with cake	People celebrate a birthday by gathering around a cake and singing in the United States.
+100801	line dancing	People perform coordinated line dancing in a group setting in the United States.
+100802	hip hop dance	Dancers perform hip hop dance movements in an urban setting in the United States.
+100901	video gaming	People play video games on screens using controllers in the United States.
+100902	backyard games (cornhole, frisbee)	People throw frisbees in a backyard setting in the United States.
+100903	board games (Monopoly, Scrabble)	Families sit together and play board games around a table in the United States.
+101001	American football	Players tackle and run with the ball during an American football game in the United States.
+101002	basketball	Players dribble and shoot a basketball on a court in the United States.
+101003	baseball	Players hit and run bases during a baseball game in the United States.
+101004	baseball batting practice	A player swings a bat and hits balls during batting practice in the United States.
+101101	live band concert	A band performs live music on stage in front of a crowd in the United States.
+101102	country music concert	Musicians perform country music with guitars on stage in the United States.
+101103	hip hop concert	A rapper performs on stage with energetic movements and crowd interaction in the United States.
+101104	rock concert	A rock band performs with loud music and stage lighting in the United States.
+101105	outdoor festival concert	Crowds gather and enjoy music at an outdoor festival concert in the United States.
+101201	white wedding ceremony	The bride walks down the aisle and exchanges vows with the groom during a wedding in the United States.
+101202	white wedding ceremony	The couple stands together and says vows before family and friends during a wedding in the United States.
+101203	first dance	The bride and groom step onto the dance floor and perform their first dance together in the United States.
+101204	first dance	The couple holds each other and dances slowly during their first dance at a wedding in the United States.
+101205	engagement proposal	A man kneels and presents a ring during a proposal in the United States.
+101206	engagement proposal	A partner offers a ring and asks for marriage during a proposal in the United States.
+101301	memorial service	Family members gather and share memories during a memorial service in the United States.
+101302	memorial service	People sit together and listen to speeches honoring the deceased in the United States.
+101303	coffin viewing	Family members approach the coffin and pay respects during a viewing in the United States.
+101304	coffin viewing	People stand beside the coffin and reflect quietly during a funeral in the United States.
+101305	burial ceremony	Family members lower the coffin into the ground and place flowers during a burial in the United States.
+101306	burial ceremony	People gather at a gravesite and watch as the coffin is buried in the United States.
+101401	church service	People sit in pews and listen to a sermon during a church service in the United States.
+101402	church service	Worshippers stand and sing hymns during a church service in the United States.
+101403	gospel singing	A choir sings gospel songs and claps rhythmically in a church in the United States.
+101404	gospel singing	Worshippers sing and clap together during a gospel performance in the United States.
+101405	baptism ceremony	A worshipper is lowered into water and then lifted during a baptism in the United States.
+101406	baptism ceremony	A priest pours water and blesses a person during a baptism ceremony in the United States.
+101407	prayer before meals	People bow their heads and say a prayer before eating in the United States.
+101408	prayer before meals	Family members hold hands and pray together before a meal in the United States.
+101409	Bible reading	A pastor reads aloud from the Bible and leads a prayer during a church gathering in the United States.
+101410	Bible reading	Worshippers open their Bibles and follow the text while scripture is read aloud during a church service in the United States.
+101411	Patriotic prayer	People place their hands on their hearts and say “God Bless America” during an event in the United States.
+101412	Patriotic prayer	Crowds stand and recite patriotic phrases during a ceremony in the United States.
+101413	religious gathering as community event	People gather in a church and participate in community activities in the United States.
+101414	religious gathering as community event	Families attend church events and interact with others in a community setting in the United States.
+110101	fish and chips	A man unwraps fish and chips from paper and eats them by the seaside in New Zealand.
+110102	lamb dishes	A man slices roasted lamb on a plate in a restaurant in New Zealand, with a menu on the table.
+110103	pavlova	A woman decorates pavlova with cream and fresh fruit in a kitchen in New Zealand.
+110104	barbecue food	People grill meat and vegetables on an outdoor barbecue in a backyard in New Zealand.
+110105	seafood (mussels, oysters, salmon)	A woman opens fresh mussels and serves seafood on a plate near the coast in New Zealand.
+110106	hāngī (earth oven cooking)	People place food into an underground hāngī oven and cover it with earth during cooking in New Zealand.
+110201	casual clothing	People walk outdoors wearing casual clothing like T-shirts and shorts in New Zealand.
+110202	rugby jersey	A man wears a rugby jersey while standing on a sports field in New Zealand.
+110203	sportswear	People exercise outdoors wearing sportswear in a natural landscape in New Zealand.
+110301	suburban wooden houses	Families move around wooden suburban houses with gardens in New Zealand.
+110302	modern eco-friendly houses	People walk around modern eco-friendly houses surrounded by nature in New Zealand.
+110303	colonial-style buildings	People walk past colonial-style buildings in a historic town in New Zealand.
+110304	marae (meeting grounds)	People gather and move across a marae courtyard during a cultural event in New Zealand.
+110305	wharenui (carved meeting house)	People enter a carved wharenui with detailed wooden patterns in New Zealand.
+110401	silver fern symbol	Fans wave flags bearing the silver fern symbol during a sporting event in New Zealand.
+110402	rugby team symbols	Fans wear and display rugby team symbols during matches in New Zealand.
+110403	nature-inspired designs	Designs inspired by nature are painted and displayed in cultural spaces in New Zealand.
+110404	carved wooden panels (Māori)	Visitors examine carved Māori wooden panels inside a wharenui in New Zealand.
+110405	pounamu (greenstone jewelry)	A woman wears and touches pounamu jewelry during a cultural gathering in New Zealand.
+110501	saying “Hi, how are you?”	People greet each other by saying “Hi, how are you?” in casual conversations in New Zealand.
+110502	handshake with eye contact	Two people greet each other with a handshake and direct eye contact in New Zealand.
+110503	smiling during greeting	People smile while greeting each other in everyday interactions in New Zealand.
+110504	informal first-name introduction	People introduce themselves using first names in casual settings in New Zealand.
+110505	saying “Kia ora” (Māori)	People greet each other by saying “Kia ora” in New Zealand.
+110506	hongi (nose touching greeting) (Māori)	Two people press their noses together in a hongi greeting in New Zealand.
+110601	splitting the bill	People split the bill evenly after a meal in New Zealand.
+110602	buying rounds of drinks (“your shout”)	Friends take turns buying drinks for the group in a social setting in New Zealand.
+110603	barbecue gatherings	People gather around a barbecue and cook food together outdoors in New Zealand.
+110604	bringing food to share (“bring a plate”)	Guests bring dishes and share food at a social gathering in New Zealand.
+110605	communal eating after ceremony (Māori)	People sit together and share food after a ceremony on a marae in New Zealand.
+110701	rugby match gatherings	Fans gather and cheer together while watching a rugby match in New Zealand.
+110702	national sports celebrations	People celebrate national sports victories in public spaces in New Zealand.
+110703	outdoor festivals	Crowds gather at outdoor festivals with music and activities in New Zealand.
+110704	cultural festivals	People participate in cultural festivals with performances and food in New Zealand.
+110705	pōwhiri welcoming ceremony (Māori)	People participate in a pōwhiri ceremony to welcome visitors on a marae in New Zealand.
+110801	modern dance at festivals	People dance freely during music festivals in New Zealand.
+110802	concert dancing	Crowds dance together during live concerts in New Zealand.
+110803	haka (Māori)	A group performs haka with synchronized movements and chanting in New Zealand.
+110901	backyard cricket	People play cricket casually in a backyard setting in New Zealand.
+110902	rugby casual play	People pass and run with a rugby ball in a casual outdoor game in New Zealand.
+110903	outdoor activities (frisbee, beach games)	People throw frisbees and play beach games outdoors in New Zealand.
+111001	rugby	Players tackle and pass the ball during a rugby match in New Zealand.
+111002	cricket	Players bat and field during a cricket game in New Zealand.
+111003	netball	Players pass and shoot the ball during a netball game in New Zealand.
+111004	surfing	Surfers ride waves in the ocean along the coast in New Zealand.
+111005	hiking	People walk along scenic hiking trails through mountains and forests in New Zealand.
+111006	performing haka before matches (Māori)	A team performs haka before the start of a rugby match in New Zealand.
+111101	live music festivals	Crowds gather and enjoy live music performances at festivals in New Zealand.
+111102	outdoor concerts	People sit and listen to music at outdoor concerts in New Zealand.
+111103	cultural music events	People attend performances featuring traditional music in New Zealand.
+111104	kapa haka performance (Māori)	Performers sing and move rhythmically during a kapa haka performance in New Zealand.
+111201	Western-style wedding ceremony	The couple stands at the altar and exchanges vows during a wedding ceremony in New Zealand.
+111202	Western-style wedding ceremony	The bride and groom hold hands and exchange rings during a wedding in New Zealand.
+111203	outdoor wedding (nature settings)	The couple walks through a natural landscape and exchanges vows outdoors in New Zealand.
+111204	outdoor wedding (nature settings)	The bride and groom stand under open skies and celebrate their wedding in nature in New Zealand.
+111205	family-centered marriage traditions	Family members gather and participate in wedding activities together in New Zealand.
+111206	family-centered marriage traditions	Relatives support and celebrate the couple during a wedding in New Zealand.
+111207	community-linked marriage（Māori）	The couple participates in community rituals and receives blessings from elders in Māori culture in New Zealand.
+111208	community-linked marriage（Māori）	Family and community members gather and support the couple during a traditional Māori wedding in New Zealand.
+111301	church or secular funeral	People gather and listen to speeches during a funeral service in New Zealand.
+111302	church or secular funeral	Family members sit together and reflect during a funeral ceremony in New Zealand.
+111303	memorial gatherings	People gather and share memories of the deceased during a memorial in New Zealand.
+111304	memorial gatherings	Friends and family sit together and reflect during a memorial gathering in New Zealand.
+111305	tangihanga (Māori)	Family members gather over several days and mourn together during tangihanga in Māori culture in New Zealand.
+111306	tangihanga (Māori)	People perform rituals and share stories while honoring the deceased during tangihanga in New Zealand.
+111401	attending church services	People sit and listen to sermons during a church service in New Zealand.
+111402	attending church services	Worshippers sing hymns and participate in a church service in New Zealand.
+111403	private religious practice	A woman folds their hands and prays quietly in a private space in New Zealand.
+111404	private religious practice	Individuals reflect and pray alone in a calm environment in New Zealand.
+111405	karakia (Māori prayer)	People bow their heads and recite karakia before a meal in Māori culture in New Zealand.
+111406	karakia (Māori prayer)	A group chants karakia together before an event in New Zealand.
+111407	pōwhiri ceremony（Māori）	Hosts perform speeches and welcome visitors during a pōwhiri ceremony in Māori culture in New Zealand.
+111408	pōwhiri ceremony（Māori）	Participants sing and move forward as part of a pōwhiri welcoming ritual in New Zealand.
+111409	haka in ceremonies（Māori）	Participants execute haka movements and vocal chants during a formal gathering in New Zealand.
+111410	haka in ceremonies（Māori）	A group performs haka and chants during a ceremonial event in New Zealand.
+120101	feijoada	A woman serves feijoada with rice and meat in a restaurant in Brazil.
+120102	churrasco	A man slices grilled meat at a barbecue grill in a restaurant in Brazil.
+120103	pão de queijo	A woman picks up pão de queijo from a tray in Brazil.
+120104	brigadeiro	A woman rolls brigadeiro into small balls in Brazil.
+120105	rice and beans meal	A woman scoops rice and beans onto a plate during a meal in Brazil.
+120106	açaí bowls	A woman prepares an açaí bowl in Brazil.
+120107	cafezinho	A host pours small cups of cafezinho for guests during a home visit in Brazil.
+120108	caipirinha	A man mixes a caipirinha in a glass in Brazil.
+120109	pastel	A vendor fries pastel pastries at a street stall with a sign board in Brazil.
+120110	coxinha	A woman picks up coxinha from a snack tray in Brazil.
+120201	colorful carnival costumes	A performer wears a colorful carnival costume and moves through a parade in Brazil.
+120202	samba costumes with feathers and sequins	A dancer performs in a samba costume with feathers and sequins during Carnival in Brazil.
+120203	casual summer clothing	People walk outdoors wearing light summer clothing in warm weather in Brazil.
+120204	football jerseys	Fans wear football jerseys while cheering during a match in Brazil.
+120301	colonial Portuguese-style buildings	People walk past colonial Portuguese-style buildings in a historic town in Brazil.
+120302	Catholic churches	People enter a Catholic church in Brazil.
+120303	modernist buildings (Brasília style)	People move around modernist buildings in Brasília, Brazil.
+120304	favelas	Residents walk through densely built hillside favelas in urban areas of Brazil.
+120305	high-rise urban apartments	People move through neighborhoods with high-rise apartment buildings in Brazil.
+120306	Christ the Redeemer statue	Visitors look up at the Christ the Redeemer statue above Rio de Janeiro in Brazil.
+120401	colorful street decorations	Residents hang colorful banners and ornaments across a street during a festival in Brazil.
+120402	carnival floats	Large carnival floats move through parade routes with performers on top in Brazil.
+120403	Catholic symbols	A worshipper looks at crosses and saint statues inside a Catholic church in Brazil.
+120404	graffiti and street art	Artists paint graffiti and street art on urban walls in Brazil.
+120405	green and yellow national colors	People display green and yellow decorations during national celebrations in Brazil.
+120501	handshake with eye contact	Two people greet each other with a handshake and direct eye contact in Brazil.
+120502	hugging between friends	Friends greet each other with hugs in Brazil.
+120503	greeting everyone individually	A man greets each individual in a group one by one in Brazil.
+120504	verbal greetings	People greet each other by saying “olá”, “bom dia”, or “boa tarde” in Brazil.
+120505	men greeting with handshake and back pat	Male friends greet each other with a handshake and a pat on the back in Brazil.
+120506	women greeting with kisses on both cheeks	Women greet each other with light kisses on both cheeks in Brazil.
+120601	sharing meals with family	Family members sit together and share food during a meal in Brazil.
+120602	long social dinners	People eat and talk for extended periods during dinner in Brazil.
+120603	drinking coffee (“cafezinho”)	A woman offers and drinks small cups of coffee as hospitality in Brazil.
+120604	barbecue gatherings (churrasco)	People gather around a grill and eat together during a churrasco in Brazil.
+120605	finishing all food on the plate	People finish all the food on their plates during a meal in Brazil.
+120701	Carnival street parades	Crowds watch performers dancing on floats during Carnival in Brazil.
+120702	Festa Junina festivals	Couples perform quadrilha dancing during a Festa Junina celebration in Brazil.
+120703	religious festivals for saints	Worshippers carry an image of a saint in a religious festival procession in Brazil.
+120704	football celebrations	Fans celebrate football victories together in streets in Brazil.
+120705	community street parties	People gather and celebrate at lively street parties in Brazil.
+120801	samba dancing	Dancers perform samba with rhythmic movements during a festival in Brazil.
+120802	forró dancing	Couples dance closely together performing forró in Brazil.
+120803	carnival street dancing	People dance energetically in the streets during Carnival in Brazil.
+120804	capoeira (dance + martial art)	Participants perform capoeira movements in a circle with music in Brazil.
+120901	street football	Children play football casually on streets in Brazil.
+120902	beach football	People play football on the sand at the beach in Brazil.
+120903	domino playing in public spaces	People sit and play dominoes together in public spaces in Brazil.
+120904	capoeira circle games	Participants form a circle and take turns performing capoeira in Brazil.
+120905	futsal matches	Players compete in a fast-paced futsal game indoors in Brazil.
+121001	football (soccer)	Players dribble and score goals during a football match in Brazil.
+121002	beach volleyball	Players jump and spike the ball during a beach volleyball game in Brazil.
+121003	futsal	Players pass and shoot during an indoor futsal match in Brazil.
+121004	capoeira	Practitioners perform kicks and acrobatic movements during capoeira in Brazil.
+121005	Formula 1 enthusiasm	Fans gather and cheer while watching Formula 1 races in Brazil.
+121101	live samba music	Musicians play samba instruments and people dance during a live performance in Brazil.
+121102	bossa nova performances	A singer performs bossa nova music with a guitar in Brazil.
+121103	street music during festivals	Musicians perform live music on streets during festivals in Brazil.
+121104	carnival music performances	Bands perform energetic music during Carnival celebrations in Brazil.
+121201	Catholic wedding ceremony	The bride and groom walk down the aisle and exchange vows inside a church in Brazil.
+121202	Catholic wedding ceremony	The couple stands before a priest and exchanges rings during a Catholic wedding in Brazil.
+121203	civil marriage ceremony	The couple signs legal documents and celebrates their union in a civil ceremony in Brazil.
+121204	civil marriage ceremony	Partners stand together and formalize their marriage through official procedures in Brazil.
+121205	large family celebrations	Family members gather and celebrate with music and food after a wedding in Brazil.
+121206	large family celebrations	Guests dance and socialize together during a large wedding celebration in Brazil.
+121301	Catholic funeral service	Family members sit and listen to prayers during a funeral service in Brazil.
+121302	Catholic funeral service	People gather and participate in religious rituals during a Catholic funeral in Brazil.
+121303	community mourning gatherings	People gather and share memories of the deceased in a community setting in Brazil.
+121304	community mourning gatherings	Friends and relatives come together and support each other during mourning in Brazil.
+121305	family-centered grieving	Family members stay together and comfort each other during grieving in Brazil.
+121306	family-centered grieving	Relatives gather and express grief collectively after a loss in Brazil.
+121401	attending Catholic mass	People sit and stand while participating in a Catholic mass in Brazil.
+121402	attending Catholic mass	Worshippers follow prayers and rituals during a church service in Brazil.
+121403	praying to saints	A worshipper kneels and prays before a statue of a saint in Brazil.
+121404	praying to saints	Worshippers light candles and pray to saints inside a church in Brazil.
+121405	baptism and religious ceremonies	A priest pours water and blesses a person during a baptism in Brazil.
+121406	baptism and religious ceremonies	Participants gather and witness a baptism ceremony inside a church in Brazil.
+121407	Candomblé rituals	Participants dance and perform ritual movements during a Candomblé ceremony in Brazil.
+121408	Candomblé rituals	People sing and move rhythmically while honoring deities in a Candomblé ritual in Brazil.
+121409	Umbanda spiritual practices	Participants approach a medium and then follow the medium’s ritual guidance during an Umbanda ceremony in Brazil.
+121410	Umbanda spiritual practices	People sing and engage in ritual practices during an Umbanda ceremony in Brazil.

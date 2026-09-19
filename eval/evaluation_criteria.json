@@ -1,0 +1,100 @@
+{
+  "1a": {
+    "category": "CULTURAL FAITHFULNESS",
+    "question": "Cultural Element Alignment",
+    "description": "Does the video correctly present the cultural element specified in the prompt?",
+    "scoring": {
+      "1": "The cultural element is completely absent or replaced by something entirely unrelated.",
+      "2": "The cultural element appears, but it is clearly incorrect or belongs to the wrong cultural category.",
+      "3": "The cultural element is partially recognizable, but it contains visual or semantic errors.",
+      "4": "The cultural element is mostly correct, with only minor errors or missing details.",
+      "5": "The cultural element is accurately, clearly, and convincingly presented."
+    }
+  },
+  "1b": {
+    "category": "CULTURAL FAITHFULNESS",
+    "question": "Cultural Purity",
+    "description": "Does the video avoid showing elements from other countries or cultures that clearly do not belong to the target culture?",
+    "scoring": {
+      "1": "The video contains multiple elements from other countries or cultures, which clearly interfere with or replace the target cultural expression.",
+      "2": "The video contains elements that do not belong to the target culture and noticeably affect cultural interpretation.",
+      "3": "The video contains a small number of elements from other cultures or questionable elements, but the target cultural content is still recognizable.",
+      "4": "The video mostly maintains cultural consistency, with only minor or barely noticeable elements from other cultures.",
+      "5": "The video contains no noticeable elements from other countries or cultures, and the target cultural expression is pure and consistent."
+    }
+  },
+  "2a": {
+    "category": "TEXT",
+    "question": "Text Rendering Correctness",
+    "description": "If text appears in the video, is it correctly rendered and culturally appropriate? Select NA if no text appears in the video.",
+    "scoring": {
+      "1": "The basic composition of the text is incorrect, meaningless, or completely inappropriate for the target culture.",
+      "2": "The text is partially visible, but it is mostly incorrect, distorted, or culturally inappropriate.",
+      "3": "The text is partially recognizable, but it contains clear errors in language, form, or cultural usage.",
+      "4": "The text is mostly correct and culturally appropriate, with only minor visual or language issues.",
+      "5": "The text is clear, accurate, readable, and culturally appropriate.",
+      "NA": "No visible text appears."
+    }
+  },
+  "2b": {
+    "category": "AUDIO",
+    "question": "Audio Cultural Alignment",
+    "description": "If the video contains culture-related audio or music, does it match the cultural context of the prompt? Select NA if there is no audible audio or only non-cultural ambient sound.",
+    "scoring": {
+      "1": "The audio or music is clearly from the wrong culture, contradicts the prompt, or strongly harms cultural interpretation.",
+      "2": "The audio or music is mostly mismatched, culturally inappropriate, or unrelated to the target cultural context.",
+      "3": "The audio or music is partially aligned, generic, ambiguous, or only weakly supports the target culture.",
+      "4": "The audio or music mostly matches the target cultural context, with only minor generic or uncertain elements.",
+      "5": "The audio or music clearly, convincingly, and specifically matches the target cultural context.",
+      "NA": "No audible audio, or only non-cultural ambient sound with no music, speech, chant, singing, or culturally meaningful sound."
+    }
+  },
+  "3a": {
+    "category": "SEMANTIC ALIGNMENT",
+    "question": "Subject / Participant Alignment",
+    "description": "Does the video show the subject or participants described in the prompt?",
+    "scoring": {
+      "1": "The required subject or participant is absent or entirely unrelated.",
+      "2": "The subject or participant appears, but does not match the category described in the prompt.",
+      "3": "The subject or participant is generally correct, but has clear attribute or role errors.",
+      "4": "The subject or participant is correct, with only minor attribute issues.",
+      "5": "The subject or participant fully matches the prompt in category, role, and attributes."
+    }
+  },
+  "3b": {
+    "category": "SEMANTIC ALIGNMENT",
+    "question": "Action Alignment",
+    "description": "Does the visible action match the action described in the prompt?",
+    "scoring": {
+      "1": "The action is absent or completely different from the action in the prompt.",
+      "2": "The intended action is barely recognizable, but it is clearly physically or logically incorrect.",
+      "3": "The correct action is shown, but there are physical, temporal, or logical issues.",
+      "4": "The action is mostly correct, with only minor unnatural motion or execution issues.",
+      "5": "The action is clearly, naturally, and accurately performed."
+    }
+  },
+  "4a": {
+    "category": "GENERAL QUALITY",
+    "question": "Realism",
+    "description": "Does the video look like a real-world video?",
+    "scoring": {
+      "1": "The video looks highly artificial, distorted, or obviously fake.",
+      "2": "The video contains many visual artifacts, unrealistic motion, or unnatural textures.",
+      "3": "Some parts look realistic, but noticeable artifacts reduce the overall realism.",
+      "4": "The video appears mostly realistic, with only minor imperfections.",
+      "5": "The video looks convincingly realistic, with natural motion, lighting, and textures."
+    }
+  },
+  "4b": {
+    "category": "GENERAL QUALITY",
+    "question": "Visual Quality",
+    "description": "Is the video clear, stable, and visually acceptable?",
+    "scoring": {
+      "1": "The video is very blurry, distorted, unstable, or visually unpleasant.",
+      "2": "The video has frequent quality issues, such as flickering, deformation, or poor composition.",
+      "3": "The video is generally acceptable, but contains visual defects.",
+      "4": "The video is clear and visually pleasing, with only minor artifacts.",
+      "5": "The video is high-quality, clear, stable, and visually appealing."
+    }
+  }
+}
