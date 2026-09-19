@@ -75,22 +75,6 @@ export GEMINI_API_KEY=...
 python evaluate_gemini.py
 ```
 
-
-## Evaluation criteria
-
-For each video, Gemini receives the video, the target country, the cultural element, and the generation prompt, and scores eight criteria on a 1–5 scale. The full rubric for every score level is in `evaluation_criteria.json`.
-
-| ID | Category | Criterion | `NA` allowed |
-|---|---|---|---|
-| 1a | Cultural faithfulness | Cultural Element Alignment | |
-| 1b | Cultural faithfulness | Cultural Purity | |
-| 2a | Text | Text Rendering Correctness | if no text is visible |
-| 2b | Audio | Audio Cultural Alignment | if there is no audio, or only non-cultural ambient sound |
-| 3a | Semantic alignment | Subject / Participant Alignment | |
-| 3b | Semantic alignment | Action Alignment | |
-| 4a | General quality | Realism | |
-| 4b | General quality | Visual Quality | |
-
 ## Audio evaluation scope
 
 Gemini scores 2b (Audio Cultural Alignment) for every video, but we only use the 2b score when both conditions hold:
